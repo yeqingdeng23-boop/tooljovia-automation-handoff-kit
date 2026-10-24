@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "projectId": "DEMO-AUTO-001",
+  "synthetic": true,
+  "currency": "USD",
+  "basedOnSource": "9aabe48c41159643a072ae58df7f43cee24fad76",
+  "executionVerified": false,
+  "scope": "Illustrative supplied records and assumptions; no customer, actual execution, signoff, payment or saving is evidenced.",
+  "A": {
+    "automation-exception-budget-calculator": {
+      "demand": "100",
+      "failurePercent": "20",
+      "retries": "2",
+      "recoveryPercent": "50",
+      "costPerAttempt": "0.10",
+      "manualMinutes": "6",
+      "exceptionHours": "0.5",
+      "hourlyRate": "20",
+      "fixedCash": "6"
+    },
+    "ai-service-pricing-calculator": {
+      "price": "150",
+      "hours": "5",
+      "hourlyRate": "20",
+      "api": "20",
+      "feePercent": "3",
+      "fixed": "100",
+      "availableHours": "20",
+      "clients": "4"
+    },
+    "workflow-branch-test-coverage": {
+      "branches": "branch_id,expected_path\nnormal,start>validate>review>queue\nfallback,start>validate>manual>hold\nduplicate,start>validate>dedupe>hold",
+      "scenarios": "scenario_id,branch_id,observed_path,status\nS1,normal,start>validate>review>queue,pass\nS2,fallback,start>validate>queue,pass\nS3,duplicate,,unrun",
+      "format": "Markdown review"
+    },
+    "mvp-acceptance-traceability-builder": {
+      "requirements": "id,requirement,priority\nR1,Normal branch entered path matches spec,must\nR2,Fallback branch entered path matches spec,must\nR3,Duplicate branch has a matching-pass fixture,must\nR4,Exception demand fits allocated handling hours,must\nR5,Actual authorized operator signoff is recorded,should\nR6,Client-readable file names are reviewed,could",
+      "tests": "id,requirement_id,procedure,expected,status\nT1,R1,Compare synthetic S1 with normal path,Exact declared ordered path,pass\nT2,R2,Compare synthetic S2 with fallback path,Exact declared ordered path,fail\nT3,R3,Inspect synthetic S3 record,Matching-pass fixture entered,unrun\nT4,R4,Compare 10 exceptions with entered capacity,Capacity is at least 10 exceptions,fail\nT5,R5,Inspect actual authorized signoff record,An accountable human decision exists,unrun"
+    }
+  },
+  "B": {
+    "automation-exception-budget-calculator": {
+      "demand": "100",
+      "failurePercent": "20",
+      "retries": "2",
+      "recoveryPercent": "50",
+      "costPerAttempt": "0.10",
+      "manualMinutes": "6",
+      "exceptionHours": "1",
+      "hourlyRate": "20",
+      "fixedCash": "6"
+    },
+    "ai-service-pricing-calculator": {
+      "price": "150",
+      "hours": "5",
+      "hourlyRate": "20",
+      "api": "20",
+      "feePercent": "3",
+      "fixed": "100",
+      "availableHours": "20",
+      "clients": "4"
+    },
+    "workflow-branch-test-coverage": {
+      "branches": "branch_id,expected_path\nnormal,start>validate>review>queue\nfallback,start>validate>manual>hold\nduplicate,start>validate>dedupe>hold",
+      "scenarios": "scenario_id,branch_id,observed_path,status\nS1,normal,start>validate>review>queue,pass\nS2,fallback,start>validate>manual>hold,pass\nS3,duplicate,start>validate>dedupe>hold,pass",
+      "format": "Markdown review"
+    },
+    "mvp-acceptance-traceability-builder": {
+      "requirements": "id,requirement,priority\nR1,Normal branch entered path matches spec,must\nR2,Fallback branch entered path matches spec,must\nR3,Duplicate branch has a matching-pass fixture,must\nR4,Exception demand fits allocated handling hours,must\nR5,Actual authorized operator signoff is recorded,should\nR6,Client-readable file names are reviewed,could",
+      "tests": "id,requirement_id,procedure,expected,status\nT1,R1,Compare synthetic S1 with normal path,Exact declared ordered path,pass\nT2,R2,Compare synthetic S2 with fallback path,Exact declared ordered path,pass\nT3,R3,Inspect synthetic S3 record,Matching-pass fixture entered,pass\nT4,R4,Compare 10 exceptions with entered capacity,Capacity is at least 10 exceptions,pass\nT5,R5,Inspect actual authorized signoff record,An accountable human decision exists,unrun"
+    }
+  },
+  "toolVerification": {
+    "pureModelsVerified": true,
+    "localBrowserInputsOutputsAndSavedFilesVerified": true,
+    "publicHostedInteractiveSampleVerified": false,
+    "realWorkflowExecutionVerified": false,
+    "note": "Synthetic records remain illustrative. No actual workflow execution is established."
+  }
+}

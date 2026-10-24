@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "synthetic": true,
+  "basis": "Independent arithmetic and source-read contract; not product runtime verification",
+  "executionVerified": false,
+  "exception": {
+    "failed": 20,
+    "maximumRetryAttempts": 40,
+    "residualExceptions": 10,
+    "manualHoursNeeded": 1,
+    "cashBeforeLaborUSD": 20,
+    "fullHandlingBudgetUSD": 40,
+    "A": {
+      "capacity": 5,
+      "unresolvedBeyondCapacity": 5,
+      "hold": true
+    },
+    "B": {
+      "capacity": 10,
+      "unresolvedBeyondCapacity": 0,
+      "capacityFitsAssumptions": true
+    }
+  },
+  "pricing": {
+    "paymentFeeUSD": 4.5,
+    "ownerLaborUSD": 100,
+    "cashContributionUSD": 125.5,
+    "laborAdjustedContributionUSD": 25.5,
+    "modeledMonthlyCashSurplusUSD": 402,
+    "modeledMonthlySurplusAfterLaborUSD": 2,
+    "monthlyCapacityClients": 4,
+    "breakEvenClients": 4,
+    "actualProfitVerified": false,
+    "excludedUnlessSeparatelyRecorded": [
+      "customer acquisition",
+      "refunds",
+      "taxes",
+      "additional work"
+    ]
+  },
+  "branch": {
+    "A": {
+      "declared": 3,
+      "matchingPass": 1,
+      "uncovered": 2,
+      "coveragePercentExact": "100/3",
+      "hold": true
+    },
+    "B": {
+      "declared": 3,
+      "matchingPass": 3,
+      "uncovered": 0,
+      "coveragePercent": 100,
+      "actualExecutionVerified": false
+    }
+  },
+  "acceptance": {
+    "A": {
+      "mustHolds": 3,
+      "uncovered": 1,
+      "failedTests": 2,
+      "unrunTests": 2
+    },
+    "B": {
+      "mustHolds": 0,
+      "uncovered": 1,
+      "failedTests": 0,
+      "unrunTests": 1,
+      "actualSignoffVerified": false
+    }
+  },
+  "mappingRule": "Transfer exception cashBeforeLaborUSD=20 into pricing api=20; pricing 5 hours already includes the full 1 hour of exception labor. Do not transfer labor-inclusive 40 into api."
+}
+
