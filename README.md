@@ -44,6 +44,12 @@ Do not upload workflow files, credentials, API keys, tokens, client data or conf
 
 PDF text supports a limited Latin character set. These optional sample files are separate from the 19-file version 0.2 ZIP.
 
+## Document images to PDF
+
+[Try the two-page document demo](examples/images-to-pdf/): download two synthetic PNG inputs and the PDF exported from the [free Images to PDF tool](https://tooljovia.com/tools/images-to-pdf/). Adjust four corners, preview and adopt each page, then combine the pages locally in your browser.
+
+This example is separate from the 19-file version 0.2 ZIP.
+
 ## Optional task feedback
 
 [Open an email draft](mailto:yeqingdeng23@gmail.com?subject=ToolJovia%20automation%20handoff%20kit%20feedback) if you want to describe a real handoff task, what you use now and the one thing still missing. You may also say whether you would like to review the scope and price of a possible paid option; no paid service is currently offered.
