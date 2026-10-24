@@ -1,0 +1,44 @@
+name: Current handoff task feedback
+description: Share a specific handoff task and a missing deliverable.
+title: "Current handoff task feedback"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This creates a **public GitHub Issue** and requires GitHub sign-in. Do not include client data, credentials, photos or confidential project details. Use neutral descriptions instead.
+
+        The free kit download requires no account. Feedback is voluntary, and no paid service is currently offered.
+  - type: textarea
+    id: current-task
+    attributes:
+      label: What handoff task are you working on now?
+      description: Describe the current task and who needs the handoff, using neutral roles rather than names.
+      placeholder: "I need to hand over a three-branch workflow to its operating owner."
+    validations:
+      required: true
+  - type: textarea
+    id: current-method
+    attributes:
+      label: What do you use for this task now? (optional)
+      placeholder: "A document, spreadsheet, messages, or another method."
+    validations:
+      required: false
+  - type: textarea
+    id: missing-deliverable
+    attributes:
+      label: What deliverable is still missing?
+      description: Name the output you still need to complete this handoff.
+      placeholder: "A client-readable record linking each branch to its test evidence and remaining work."
+    validations:
+      required: true
+  - type: dropdown
+    id: extra-scope
+    attributes:
+      label: Would you want to discuss extra scope and price? (optional)
+      description: No paid service is currently offered.
+      options:
+        - Free kit only
+        - I would like to discuss extra scope and price
+        - Not sure yet
+    validations:
+      required: false

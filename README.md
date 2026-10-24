@@ -44,6 +44,8 @@ Do not upload workflow files, credentials, API keys, tokens, client data or conf
 
 Only a fixed subject is supplied. Review and send the message yourself; this link does not send email automatically. Please omit client data and credentials. Sending feedback does not create a marketing subscription.
 
+Prefer GitHub? [Share your current handoff task](https://github.com/yeqingdeng23-boop/tooljovia-automation-handoff-kit/issues/new?template=current-task.yml). Issues are public and require GitHub sign-in; leave out client data, credentials and photos. The free kit download requires no account.
+
 ## Version and existing use terms
 
 The version 0.2 ZIP is 19,758 bytes. Its SHA-256 identifies the specific archive referenced here:
