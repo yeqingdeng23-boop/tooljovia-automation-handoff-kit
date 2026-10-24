@@ -38,6 +38,12 @@ The workbenches organize the records you enter. They do not connect vendor accou
 
 Do not upload workflow files, credentials, API keys, tokens, client data or confidential execution records to a repository or feedback email. Keep real execution evidence in its authorized project location. Any optional cost examples are hypothetical, not observed savings, income or profit.
 
+## Photo issues to hand over
+
+[View the photo report demo](examples/photo-issue-report/): three made-up issues delivered as a PDF, a CSV checklist and an editable JSON draft. Try the [free Photo Issue Report Builder](https://tooljovia.com/tools/photo-issue-report-builder/) with up to 10 items, using your own authorized images.
+
+PDF text supports a limited Latin character set. These optional sample files are separate from the 19-file version 0.2 ZIP.
+
 ## Optional task feedback
 
 [Open an email draft](mailto:yeqingdeng23@gmail.com?subject=ToolJovia%20automation%20handoff%20kit%20feedback) if you want to describe a real handoff task, what you use now and the one thing still missing. You may also say whether you would like to review the scope and price of a possible paid option; no paid service is currently offered.

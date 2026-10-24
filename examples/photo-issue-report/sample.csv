@@ -1,0 +1,5 @@
+﻿"project_name","report_date","issue_id","location","description","assignee","status","photo_name","photo_width_px","photo_height_px"
+"SYNTHETIC SAMPLE - Workshop inspection","2026-10-24","DEMO-001","Sample room A / cabinet","Synthetic training issue: cabinet handle needs tightening.
+Check fasteners, then mark resolved.","Demo technician","Open","synthetic-1.jpg","960","540"
+"SYNTHETIC SAMPLE - Workshop inspection","2026-10-24","DEMO-002","Sample room B / wall","Synthetic training issue: small paint mark near the sample panel. Clean and inspect.","Demo reviewer","In progress","synthetic-2.jpg","960","540"
+"SYNTHETIC SAMPLE - Workshop inspection","2026-10-24","DEMO-003","Sample corridor C","Synthetic training issue: clear walkway confirmed after moving the demonstration box.","Demo coordinator","Resolved","synthetic-3.jpg","960","540"
