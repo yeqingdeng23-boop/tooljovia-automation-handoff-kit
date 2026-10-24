@@ -13,12 +13,12 @@ The four files in this example are:
 
 1. Download the two PNG inputs above to your device, then open [ToolJovia Images to PDF](https://tooljovia.com/tools/images-to-pdf/).
 2. Select **both PNGs together** in the Images file picker. The tool accepts PNG, JPEG and WebP images; it does not accept SVG inputs.
-3. Enable **Prepare image pages before making the PDF (optional)**. Confirm that the checklist is first and field notes second; use **Move page up/down** if needed. Select a page and enter its working-image coordinates from the table below. For your own images, choose corners for that document instead.
+3. Enable **Prepare image pages before making the PDF (optional)**. Confirm that the checklist is first and field notes second; use **Move page up/down** if needed. Select each page and drag the four handles to the document corners. You can also focus a handle and use the arrow keys to adjust it. To reproduce the sample PDF using the listed corners, optionally enter the working-image coordinates in the table below. For your own images, choose corners for that document instead.
 4. Keep the default **Color** mode, select **Preview preparation**, and compare the original and prepared page. Then explicitly select **Adopt preview for this PDF page**. Repeat for the other page. Previewing alone does not change the PDF.
 5. Set **PDF page size** to **Image pixels as points**, **Page orientation** to **Portrait**, and **Margin points** to **0**. Select **Run tool**, then **Download**.
 6. Open the PDF. Check that the checklist is first and field notes second, with the same project and item labels on both pages. Restore the original page or reset the tool if you want to start again. You can also leave preparation off for direct conversion.
 
-For these two supplied PNGs, the preparation working image is **1154 x 866**. Coordinates are ordered top left, top right, bottom right, bottom left:
+For these two supplied PNGs, the preparation working image is **1154 x 866**. The prepared sizes below describe the saved example made with these exact coordinates. Choosing different corners can produce different dimensions. Coordinates are ordered top left, top right, bottom right, bottom left:
 
 | Page | Four working-image corners | Prepared image and PDF page size |
 | --- | --- | --- |
