@@ -31,6 +31,8 @@ Both pages show **SYNTHETIC DEMO** and **Project TJ-DEMO-01**. The checklist has
 
 The image conversion runs locally in your browser. Preparation can reduce resolution; Color is the default. Black and white is optional and can thicken small text or add speckle. No OCR or searchable text layer is added.
 
+For larger sets, such as 20 job photos and three receipt images, optional batch preparation scales images down using the currently adopted crop or black-and-white version, or the original when no preparation has been adopted. Review each proposed page and check receipt text, then explicitly adopt the batch once; individual preview-and-adopt steps are not required for every page. Originals remain available; restoring a page returns to its original image, not an earlier crop. Choose **Run tool**, then **Download**, to get the PDF. Batch preparation does not raise input, pixel or output limits and may not make every set fit. It runs in your browser without uploading files or requiring an account or email address.
+
 To combine job photos, receipt images and a supported existing PDF, create the image pages with [Images to PDF](https://tooljovia.com/tools/images-to-pdf/), then open [PDF Page Organizer](https://tooljovia.com/tools/pdf-page-organizer/).
 For a two-page image PDF selected as file 1 and another compatible PDF as file 2, use `1:1-2,2:1`; file numbers follow the actual selected-file order.
 The Organizer accepts up to 10 PDFs, 20 MiB each, 50 MiB together, 200 pages per input and 200 selected output pages; separate image and pixel limits still apply, and digitally signed PDFs are rejected.
