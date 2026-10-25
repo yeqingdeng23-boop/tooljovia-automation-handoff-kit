@@ -31,6 +31,11 @@ Both pages show **SYNTHETIC DEMO** and **Project TJ-DEMO-01**. The checklist has
 
 The image conversion runs locally in your browser. Preparation can reduce resolution; Color is the default. Black and white is optional and can thicken small text or add speckle. No OCR or searchable text layer is added.
 
+To combine job photos, receipt images and a supported existing PDF, create the image pages with [Images to PDF](https://tooljovia.com/tools/images-to-pdf/), then open [PDF Page Organizer](https://tooljovia.com/tools/pdf-page-organizer/).
+For a two-page image PDF selected as file 1 and another compatible PDF as file 2, use `1:1-2,2:1`; file numbers follow the actual selected-file order.
+The Organizer accepts up to 10 PDFs, 20 MiB each, 50 MiB together, 200 pages per input and 200 selected output pages; separate image and pixel limits still apply, and digitally signed PDFs are rejected.
+Follow the [mixed-file handoff steps](https://tooljovia.com/tools/images-to-pdf/#images-pdf-job-handoff) for compatibility limits, then check the final page order and receipt readability before sharing.
+
 ## Optional task feedback
 
 [Share a current task or missing deliverable](https://github.com/yeqingdeng23-boop/tooljovia-automation-handoff-kit/issues/new?template=current-task.yml). Feedback is voluntary. GitHub issues are public and require GitHub sign-in; do not attach private documents, photos, personal details or credentials.
