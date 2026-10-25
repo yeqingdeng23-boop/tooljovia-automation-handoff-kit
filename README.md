@@ -50,6 +50,8 @@ PDF text supports a limited Latin character set. These optional sample files are
 
 This example is separate from the 19-file version 0.2 ZIP.
 
+Planning a scoped service? [Read the service proposal example](examples/service-proposal/) for a fictional USD 1,200 setup package, with separate labor-cost and client-billing assumptions.
+
 ## Optional task feedback
 
 [Open an email draft](mailto:yeqingdeng23@gmail.com?subject=ToolJovia%20automation%20handoff%20kit%20feedback) if you want to describe a real handoff task, what you use now and the one thing still missing. You may also say whether you would like to review the scope and price of a possible paid option; no paid service is currently offered.
