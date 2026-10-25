@@ -21,6 +21,8 @@ Use GitHub's **Download raw file** control to save the JSON itself before import
 3. Export a fresh PDF and CSV. Compare the issue IDs and order in both files.
 4. Keep a JSON draft if you want to resume editing later.
 
+For a property or construction handoff, the [photo punch list guide](https://tooljovia.com/photo-punch-list/) shows how to write clear issue notes, check the same IDs in the PDF and CSV, and continue editing from a saved JSON draft.
+
 The builder handles up to 10 items. Processing stays in your browser; the tool does not upload your images or report contents. PDF text uses a limited Latin character set. Unsupported characters stop PDF export with an error; CSV and JSON preserve the UTF-8 text.
 
 ## Tell us what you need
