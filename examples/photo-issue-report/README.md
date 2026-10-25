@@ -20,8 +20,8 @@ Use GitHub's **Download raw file** control to save the JSON itself before import
 
 1. Open the web tool and choose **Load synthetic example**. No file download is needed to start.
 2. Review the three synthetic issues, then change a description, assignee or status while keeping its ID.
-3. Choose **Save PDF report** and **Save matching CSV**. Compare the issue IDs and order in both files.
-4. Use **Save JSON backup** if you want to resume editing later.
+3. Choose **Download handoff ZIP** to save the PDF report, matching CSV checklist and editable JSON from one report snapshot. The JSON includes report photos, so review the contents before sharing. You can still save PDF and CSV separately. Compare the issue IDs and order in the PDF and CSV.
+4. To continue editing from a ZIP, unzip it first, choose **Restore JSON backup** and select the extracted `.json` file, not the ZIP. Use **Save JSON backup** separately to keep an unfinished draft, including an empty project name or description.
 
 To start with your own JPEG or PNG files, choose **Add photos as draft issues**. Each photo becomes one draft issue; the report can contain up to 10 issues in total. The whole batch is added only after every photo passes processing. Review the order, then add your project name and a description for each new issue before saving a PDF or CSV. Save JSON to keep an unfinished draft.
 
@@ -29,7 +29,7 @@ To keep the current report version, save a JSON backup before adding an optional
 
 For a property or construction handoff, the [photo punch list guide](https://tooljovia.com/photo-punch-list/) shows how to write clear issue notes, check the same IDs in the PDF and CSV, and continue editing from a saved JSON draft.
 
-The builder handles up to 10 items. Processing stays in your browser; the tool does not upload your images or report contents. PDF text uses a limited Latin character set. Unsupported characters stop PDF export with an error; CSV and JSON preserve the UTF-8 text.
+The builder handles up to 10 items. Processing stays in your browser; the tool does not upload your images or report contents. PDF text uses a limited Latin character set. Unsupported characters stop PDF and handoff ZIP export with an error; the separate CSV and JSON exports preserve UTF-8 text.
 
 ## Tell us what you need
 
