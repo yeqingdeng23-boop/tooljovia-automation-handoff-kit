@@ -16,10 +16,10 @@ Use GitHub's **Download raw file** control to save the JSON itself before import
 
 ## Try the same task
 
-1. Open the web tool and import the downloaded JSON draft.
-2. Review the three synthetic issues, then change a description, owner or status.
-3. Export a fresh PDF and CSV. Compare the issue IDs and order in both files.
-4. Keep a JSON draft if you want to resume editing later.
+1. Open the web tool and choose **Load synthetic example**. No file download is needed to start.
+2. Review the three synthetic issues, then change a description, assignee or status while keeping its ID.
+3. Choose **Save PDF report** and **Save matching CSV**. Compare the issue IDs and order in both files.
+4. Use **Save JSON backup** if you want to resume editing later.
 
 For a property or construction handoff, the [photo punch list guide](https://tooljovia.com/photo-punch-list/) shows how to write clear issue notes, check the same IDs in the PDF and CSV, and continue editing from a saved JSON draft.
 
