@@ -12,6 +12,8 @@ Three made-up issues and diagrams show how the same records appear in a report, 
 | [Sample CSV](sample.csv) | Compare issue IDs, locations, descriptions, owners and statuses with the PDF. |
 | [Editable JSON draft](sample.json) | Download it, then import it into the web tool to restore the same three records and images. |
 
+[Download the prepared synthetic sample ZIP](https://raw.githubusercontent.com/yeqingdeng23-boop/tooljovia-automation-handoff-kit/main/examples/photo-issue-report/sample-handoff.zip). It contains the PDF, CSV and editable JSON with embedded synthetic report images. Review before sharing.
+
 Use GitHub's **Download raw file** control to save the JSON itself before importing it.
 
 ## Try the same task
