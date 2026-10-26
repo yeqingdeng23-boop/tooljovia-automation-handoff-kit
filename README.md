@@ -60,6 +60,14 @@ Handing over subtitles? [Compare this two-cue SRT and WebVTT pair](examples/subt
 
 This is an authored sample, not generated from your personal inputs. Your own photos and writing can be used in a free editable preview. The tool does not verify a pet's afterlife location or automatically write a personalized letter; paid purchasing is unavailable.
 
+For your own photo keepsake:
+
+1. Create your free personal preview with your own photo, then edit your memorial letter.
+2. In the card text-source control, explicitly choose **Current memorial letter**, then select the excerpt you want on the card.
+3. Save the PNG keepsake with your own photo. Save a separate TXT copy if you want the full current letter.
+
+This personal workflow is separate from the fictional Juniper example above. Use the existing feedback links below only to describe ordinary steps or controls; omit photos, personal letters, beliefs, dreams and loss stories.
+
 ## Optional task feedback
 
 [Open an email draft](mailto:yeqingdeng23@gmail.com?subject=ToolJovia%20automation%20handoff%20kit%20feedback) if you want to describe a real handoff task, what you use now and the one thing still missing. You may also say whether you would like to review the scope and price of a possible paid option; no paid service is currently offered.
