@@ -54,6 +54,12 @@ Planning a scoped service? [Read the service proposal example](examples/service-
 
 Handing over subtitles? [Compare this two-cue SRT and WebVTT pair](examples/subtitle-workbench/) with a clear 125 ms shift, then try the existing Subtitle Workbench.
 
+## A private pet keepsake
+
+[Try Pet Soul Journey](https://tooljovia.com/pet-soul/) and open **See the complete example** to read a complete, prewritten English letter for the fictional dog Juniper. Edit the letter, save the current full text as TXT, or export a PNG keepsake with a selected excerpt and our existing artwork. These features are free and work locally in your browser.
+
+This is an authored sample, not generated from your personal inputs. Your own photos and writing can be used in a free editable preview. The tool does not verify a pet's afterlife location or automatically write a personalized letter; paid purchasing is unavailable.
+
 ## Optional task feedback
 
 [Open an email draft](mailto:yeqingdeng23@gmail.com?subject=ToolJovia%20automation%20handoff%20kit%20feedback) if you want to describe a real handoff task, what you use now and the one thing still missing. You may also say whether you would like to review the scope and price of a possible paid option; no paid service is currently offered.
