@@ -1,4 +1,4 @@
-# Automation client handoff checklist
+# Client Project Delivery Checklist
 
 Use this working checklist to record what was checked, what remains open, and who decides whether the project can be handed over. A completed document is not a substitute for actual execution records or the client's decision.
 

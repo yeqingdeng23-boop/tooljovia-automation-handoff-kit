@@ -37,4 +37,4 @@ Have a current reporting task? [Open an email draft](mailto:yeqingdeng23@gmail.c
 
 Prefer a public GitHub reply? [Share a current task in an Issue](https://github.com/yeqingdeng23-boop/tooljovia-automation-handoff-kit/issues/new?template=current-task.yml). An Issue is public and requires a GitHub account; share a general task description only.
 
-These sample files are a separate optional download. The automation handoff ZIP linked from the repository root contains its original 19 files.
+These sample files are a separate optional download. The worksheet ZIP linked from the repository root contains 19 editable files.

@@ -1,10 +1,10 @@
-# ToolJovia Automation Handoff Kit
+# ToolJovia Task Worksheets
 
-A free set of editable worksheets for independent automation consultants and small studios preparing a client handoff.
+A free set of editable worksheets for planning project work, recording checks and preparing deliverables.
 
 Use it to connect the workflow paths you declare, the test records you supply, the work still open, and the person responsible for the handoff decision. It prepares a reviewable record; it does not run or approve an automation.
 
-[Read the handoff guide](https://tooljovia.com/automation-handoff/) · [Download version 0.2 — ZIP, 19 files](https://tooljovia.com/assets/downloads/tooljovia-automation-handoff-free-pilot-v0.2.zip)
+[Read the worksheet guide](https://tooljovia.com/automation-handoff/) · [Download version 0.2 — ZIP, 19 files](https://tooljovia.com/assets/downloads/tooljovia-automation-handoff-free-pilot-v0.2.zip)
 
 No account, email address or optional analytics consent is required to use the free kit.
 
@@ -70,11 +70,11 @@ This personal workflow is separate from the fictional Juniper example above. Use
 
 ## Optional task feedback
 
-[Open an email draft](mailto:yeqingdeng23@gmail.com?subject=ToolJovia%20automation%20handoff%20kit%20feedback) if you want to describe a real handoff task, what you use now and the one thing still missing. You may also say whether you would like to review the scope and price of a possible paid option; no paid service is currently offered.
+[Open an email draft](mailto:yeqingdeng23@gmail.com?subject=ToolJovia%20task%20feedback) if you want to describe a current tool task, what you use now and the one result still missing. You may also say whether you would like to review the scope and price of a possible paid option; no paid service is currently offered.
 
 Only a fixed subject is supplied. Review and send the message yourself; this link does not send email automatically. Please omit client data and credentials. Sending feedback does not create a marketing subscription.
 
-Prefer GitHub? [Share your current handoff task](https://github.com/yeqingdeng23-boop/tooljovia-automation-handoff-kit/issues/new?template=current-task.yml). Issues are public and require GitHub sign-in; leave out client data, credentials and photos. The free kit download requires no account.
+Prefer GitHub? [Share your current tool task](https://github.com/yeqingdeng23-boop/tooljovia-automation-handoff-kit/issues/new?template=current-task.yml). Issues are public and require GitHub sign-in; leave out client data, credentials and photos. The free kit download requires no account.
 
 ## Version and existing use terms
 

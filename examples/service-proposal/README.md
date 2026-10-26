@@ -4,7 +4,7 @@ Read a complete, editable proposal for a **fictional** consulting setup package:
 
 [Read the proposal](ai-freelance-proposal.md) · [Raw Markdown](https://raw.githubusercontent.com/yeqingdeng23-boop/tooljovia-automation-handoff-kit/main/examples/service-proposal/ai-freelance-proposal.md) · [Try the proposal tool](https://tooljovia.com/tools/ai-freelance-proposal-builder/)
 
-The file includes proposed deliverables, exclusions, review conditions, a schedule, one bounded revision round and a manual handover. It is separate from the [19-file automation handoff kit](../../kit/).
+The file includes proposed deliverables, exclusions, review conditions, a schedule, one bounded revision round and a manual handover. It is separate from the [19-file worksheet kit](../../kit/).
 
 ## Understand the figures
 

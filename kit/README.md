@@ -1,6 +1,6 @@
-# ToolJovia automation handoff kit
+# ToolJovia Task Worksheets
 
-A free working kit for an automation consultant preparing a client handoff. Start with the blank checklist, review the hypothetical example, then use your own authorized project records.
+A free working kit for organizing project records before delivery to a client. Start with the blank checklist, review the hypothetical example, then use your own authorized project records.
 
 ## Start here
 
