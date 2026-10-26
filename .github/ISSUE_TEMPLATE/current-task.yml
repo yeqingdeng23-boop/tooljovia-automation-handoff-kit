@@ -1,18 +1,20 @@
-name: Current handoff task feedback
-description: Share a specific handoff task and a missing deliverable.
-title: "Current handoff task feedback"
+name: Current ToolJovia task feedback
+description: Share a specific tool task and a missing result.
+title: "Current ToolJovia task feedback"
 body:
   - type: markdown
     attributes:
       value: |
         This creates a **public GitHub Issue** and requires GitHub sign-in. Do not include client data, credentials, photos or confidential project details. Use neutral descriptions instead.
 
+        For personal tools, describe controls or ordinary steps only; omit personal letters, beliefs, dreams and loss stories.
+
         The free kit download requires no account. Feedback is voluntary, and no paid service is currently offered.
   - type: textarea
     id: current-task
     attributes:
-      label: What handoff task are you working on now?
-      description: Describe the current task and who needs the handoff, using neutral roles rather than names.
+      label: What task are you working on now?
+      description: Describe ordinary steps and the output you need, using neutral roles rather than names.
       placeholder: "I need to hand over a three-branch workflow to its operating owner."
     validations:
       required: true
@@ -27,7 +29,7 @@ body:
     id: missing-deliverable
     attributes:
       label: What deliverable is still missing?
-      description: Name the output you still need to complete this handoff.
+      description: Name the file or result you still need to finish this task.
       placeholder: "A client-readable record linking each branch to its test evidence and remaining work."
     validations:
       required: true
