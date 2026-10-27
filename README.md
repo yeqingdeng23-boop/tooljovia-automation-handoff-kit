@@ -54,6 +54,8 @@ Planning a scoped service? [Read the service proposal example](examples/service-
 
 Handing over subtitles? [Compare this two-cue SRT and WebVTT pair](examples/subtitle-workbench/) with a clear 125 ms shift, then try the existing Subtitle Workbench.
 
+[Try the two-file text replacement example](examples/batch-text-replace/): download two fictional inputs, change `ACME` to `NOVA` with the [free Batch Text File Replacer](https://tooljovia.com/tools/batch-text-file-replacer/), and compare the saved result ZIP. One file changes; the other stays unchanged.
+
 ## A private pet keepsake
 
 [Try Pet Soul Journey](https://tooljovia.com/pet-soul/) and open **See the complete example** to read a complete, prewritten English letter for the fictional dog Juniper. Edit the letter, save the current full text as TXT, or export a PNG keepsake with a selected excerpt and our existing artwork. These features are free and work locally in your browser.
