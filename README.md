@@ -60,7 +60,9 @@ Handing over subtitles? [Compare this two-cue SRT and WebVTT pair](examples/subt
 
 [Try Pet Soul Journey](https://tooljovia.com/pet-soul/) and open **See the complete example** to read a complete, prewritten English letter for the fictional dog Juniper. Edit the letter, save the current full text as TXT, or export a PNG keepsake with a selected excerpt and our existing artwork. These features are free and work locally in your browser.
 
-This is an authored sample, not generated from your personal inputs. Your own photos and writing can be used in a free editable preview. The tool does not verify a pet's afterlife location or automatically write a personalized letter; paid purchasing is unavailable.
+This is an authored free sample, separate from the optional booklet's actual output. Your own photos and writing can be used in a free editable preview. The tool does not verify a pet's afterlife location.
+
+An optional editable remembrance booklet is available for a one-time payment of **USD 59.90**, with no subscription. It arranges the memories you supply using disclosed composition rules and provides your current letter as TXT and printable HTML, with a separately chosen private appendix. [Review the deliverables, current availability and same-browser access requirements before checkout](https://tooljovia.com/pet-soul/checkout/). The free workspace and photo-card downloads remain free.
 
 For your own photo keepsake:
 
@@ -72,7 +74,7 @@ This personal workflow is separate from the fictional Juniper example above. Use
 
 ## Optional task feedback
 
-[Open an email draft](mailto:yeqingdeng23@gmail.com?subject=ToolJovia%20task%20feedback) if you want to describe a current tool task, what you use now and the one result still missing. You may also say whether you would like to review the scope and price of a possible paid option; no paid service is currently offered.
+[Open an email draft](mailto:yeqingdeng23@gmail.com?subject=ToolJovia%20task%20feedback) if you want to describe a current tool task, what you use now and the one result still missing. You may also describe a missing result and whether you would want to discuss a clearly scoped product option. This feedback route does not offer paid support or implementation services.
 
 Only a fixed subject is supplied. Review and send the message yourself; this link does not send email automatically. Please omit client data and credentials. Sending feedback does not create a marketing subscription.
 
