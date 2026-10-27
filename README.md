@@ -4,7 +4,7 @@ A free set of editable worksheets for planning project work, recording checks an
 
 Use it to connect the workflow paths you declare, the test records you supply, the work still open, and the person responsible for the handoff decision. It prepares a reviewable record; it does not run or approve an automation.
 
-[Read the worksheet guide](https://tooljovia.com/automation-handoff/) · [Download version 0.2 — ZIP, 19 files](https://tooljovia.com/assets/downloads/tooljovia-automation-handoff-free-pilot-v0.2.zip)
+[Read the worksheet guide](https://tooljovia.com/automation-handoff/) · [Download version 0.3 — ZIP, 19 files](https://tooljovia.com/assets/downloads/tooljovia-task-worksheets-v0.3.zip)
 
 No account, email address or optional analytics consent is required to use the free kit.
 
@@ -42,13 +42,13 @@ Do not upload workflow files, credentials, API keys, tokens, client data or conf
 
 [View the photo report demo](examples/photo-issue-report/): three made-up issues delivered as a PDF, a CSV checklist and an editable JSON draft. Try the [free Photo Issue Report Builder](https://tooljovia.com/tools/photo-issue-report-builder/) with up to 10 items, using your own authorized images.
 
-PDF text supports a limited Latin character set. These optional sample files are separate from the 19-file version 0.2 ZIP.
+PDF text supports a limited Latin character set. These optional sample files are separate from the 19-file version 0.3 ZIP.
 
 ## Document images to PDF
 
 [Try the two-page document demo](examples/images-to-pdf/): download two synthetic PNG inputs and the PDF exported from the [free Images to PDF tool](https://tooljovia.com/tools/images-to-pdf/). Adjust four corners, preview and adopt each page, then combine the pages locally in your browser.
 
-This example is separate from the 19-file version 0.2 ZIP.
+This example is separate from the 19-file version 0.3 ZIP.
 
 Planning a scoped service? [Read the service proposal example](examples/service-proposal/) for a fictional USD 1,200 setup package, with separate labor-cost and client-billing assumptions.
 
@@ -78,14 +78,14 @@ Prefer GitHub? [Share your current tool task](https://github.com/yeqingdeng23-bo
 
 ## Version and existing use terms
 
-The version 0.2 ZIP is 19,758 bytes. Its SHA-256 identifies the specific archive referenced here:
+The version 0.3 ZIP is 19,803 bytes. Its SHA-256 identifies the specific archive referenced here:
 
 ```text
-ccd4c10b2c4b265ef0c9998dc8e158d6d16e5efcdc8cf45b5b772440275d4cb8
+bd5098824201db45bdf69d898d3e709bffbceb259b3a084918fe8eb5567992ad
 ```
 
 The README inside that archive states:
 
-> Version 0.2. These worksheets and checklist are provided for use and adaptation in your own or client projects. Keep the synthetic example identified as a demonstration. No paid support, implementation or outcome promise is included.
+> Version 0.3. These worksheets and checklist are provided for use and adaptation in your own or client projects. Keep the synthetic example identified as a demonstration. No paid support, implementation or outcome promise is included.
 
 Those terms are preserved. This README declares no additional license.

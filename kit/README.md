@@ -1,6 +1,6 @@
 # ToolJovia Task Worksheets
 
-A free working kit for organizing project records before delivery to a client. Start with the blank checklist, review the hypothetical example, then use your own authorized project records.
+Free worksheets for reviewing a client project before delivery. Start with the blank checklist, review the hypothetical example, then use your own authorized project records.
 
 ## Start here
 
@@ -30,4 +30,4 @@ Existing free workbenches:
 
 Keep passwords, API keys, tokens and customer records out of these files and optional feedback. Keep real execution evidence in the project's authorized location. ToolJovia reviews the data you enter; it does not migrate credentials, connect accounts, run live automation, approve a release or make a client accept the work.
 
-Version 0.2. These worksheets and checklist are provided for use and adaptation in your own or client projects. Keep the synthetic example identified as a demonstration. No paid support, implementation or outcome promise is included.
+Version 0.3. These worksheets and checklist are provided for use and adaptation in your own or client projects. Keep the synthetic example identified as a demonstration. No paid support, implementation or outcome promise is included.

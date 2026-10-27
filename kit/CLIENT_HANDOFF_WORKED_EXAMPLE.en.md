@@ -1,4 +1,4 @@
-# Worked example: matching paths, unfinished handoff
+# Worked example: matching paths, open review items
 
 **Hypothetical demonstration.** All paths and statuses below are synthetic. This is not a customer project, an execution log, a signoff, or an approved release.
 
