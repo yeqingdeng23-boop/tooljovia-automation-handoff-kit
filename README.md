@@ -64,6 +64,13 @@ This is an authored free sample, separate from the optional booklet's actual out
 
 An optional editable remembrance booklet is available for a one-time payment of **USD 59.90**, with no subscription. It arranges the memories you supply using disclosed composition rules and provides your current letter as TXT and printable HTML, with a separately chosen private appendix. [Review the deliverables, current availability and same-browser access requirements before checkout](https://tooljovia.com/pet-soul/checkout/). The free workspace and photo-card downloads remain free.
 
+Before paying, inspect the optional booklet's output format. These four fixed fictional Juniper files were prepared together using the booklet's actual composition and export process. They are not customer work.
+
+- Letter only: [juniper-letter.txt](https://tooljovia.com/pet-soul/examples/juniper-letter.txt) · [juniper-letter.html — view or print](https://tooljovia.com/pet-soul/examples/juniper-letter).
+- Full booklet with a fictional appendix: [juniper-full-booklet.txt](https://tooljovia.com/pet-soul/examples/juniper-full-booklet.txt) · [juniper-full-booklet.html — view or print](https://tooljovia.com/pet-soul/examples/juniper-full-booklet).
+
+These files are separate from the prewritten free-workspace example and from your personal draft. [Open the free memorial workspace](https://tooljovia.com/pet-soul/) to add your own memories and review the preparation steps before choosing to pay. Your photo cards and their downloads remain free.
+
 For your own photo keepsake:
 
 1. Create your free personal preview with your own photo, then edit your memorial letter.
