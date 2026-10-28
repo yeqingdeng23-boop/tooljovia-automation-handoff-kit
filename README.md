@@ -56,6 +56,8 @@ Handing over subtitles? [Compare this two-cue SRT and WebVTT pair](examples/subt
 
 [Try the two-file text replacement example](examples/batch-text-replace/): download two fictional inputs, change `ACME` to `NOVA` with the [free Batch Text File Replacer](https://tooljovia.com/tools/batch-text-file-replacer/), and compare the saved result ZIP. One file changes; the other stays unchanged.
 
+[Test a robots.txt exception](docs/test-a-robots-txt-exception.md): follow a fictional Allow and Disallow example, inspect the winning rule, and compare a second path.
+
 ## Find Your Pet's Soul
 
 [Try Find Your Pet's Soul](https://tooljovia.com/pet-soul/) for a personal reflection based on your pet's story and, optionally, the faith perspective you choose. Your photo cards and editable letter remain free and work locally in your browser. Use your own authorized photo, select an excerpt and save a PNG keepsake; save the current full letter separately as TXT.
