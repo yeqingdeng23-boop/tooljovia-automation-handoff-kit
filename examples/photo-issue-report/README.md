@@ -25,7 +25,7 @@ Use GitHub's **Download raw file** control to save the JSON itself before import
 1. Open the web tool and choose **Load synthetic example**. No file download is needed to start.
 2. Review the three synthetic issues, then change a description, assignee or status while keeping its ID.
 3. Choose **Download handoff ZIP** to save the PDF report, matching CSV checklist and editable JSON from one report snapshot. The JSON includes report photos, so review the contents before sharing. You can still save PDF and CSV separately. Compare the issue IDs and order in the PDF and CSV.
-4. To continue editing from a ZIP, unzip it first, choose **Restore JSON backup** and select the extracted `.json` file, not the ZIP. Use **Save JSON backup** separately to keep an unfinished draft, including an empty project name or description.
+4. To continue editing from a ZIP, unzip it first, choose **Restore JSON backup** and select the extracted `.json` file, not the ZIP. Use **Save JSON backup** separately to keep an unfinished draft, including an empty project name or description. There is no automatic save: save a JSON backup before reloading or closing the tab, or unsaved changes will be lost.
 
 To start with your own JPEG or PNG files, choose **Add photos as draft issues**. Each photo becomes one draft issue; the report can contain up to 10 issues in total. The whole batch is added only after every photo passes processing. Review the order, then add your project name and a description for each new issue before saving a PDF or CSV. Save JSON to keep an unfinished draft.
 
