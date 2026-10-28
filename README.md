@@ -58,18 +58,17 @@ Handing over subtitles? [Compare this two-cue SRT and WebVTT pair](examples/subt
 
 ## Find Your Pet's Soul
 
-[Try Find Your Pet's Soul](https://tooljovia.com/pet-soul/) for a personal reflection based on your pet's story and, optionally, the faith perspective you choose. Open **See the complete example** to read a complete, prewritten English letter for the fictional dog Juniper. Edit the letter, save the current full text as TXT, or export a PNG keepsake with a selected excerpt and our existing artwork. These features are free and work locally in your browser.
+[Try Find Your Pet's Soul](https://tooljovia.com/pet-soul/) for a personal reflection based on your pet's story and, optionally, the faith perspective you choose. Your photo cards and editable letter remain free and work locally in your browser. Use your own authorized photo, select an excerpt and save a PNG keepsake; save the current full letter separately as TXT.
 
-This is an authored free sample, separate from the optional booklet's actual output. Your own photos and writing can be used in a free editable preview. The tool does not verify a pet's afterlife location.
+**Read one actual chapter before deciding to pay.** Add the memories you want to use in the free workspace. If you want to continue to **Prepare your reflection**, explicitly choose to save that draft on your device. On the preparation page, choose whether to send the draft's text to ToolJovia, then review your free chapter, the passages it draws on and references for your chosen perspective. Your photo is not sent. Previewing does not request payment.
 
-An optional editable remembrance booklet is available for a one-time payment of **USD 59.90**, with no subscription. It arranges the memories you supply using disclosed composition rules and provides your current letter as TXT and printable HTML, with a separately chosen private appendix. [Review the deliverables, current availability and same-browser access requirements before checkout](https://tooljovia.com/pet-soul/checkout/). The free workspace and photo-card downloads remain free.
+The optional complete personal soul-journey reflection costs **USD 59.90 once**, with no subscription. Before checkout, the page lists exactly which additional sections your current material supports and the supporting editable letter. Save the delivered work as TXT or printable HTML with references. [Review current availability and same-browser access requirements before checkout](https://tooljovia.com/pet-soul/checkout/). The free workspace and photo-card downloads remain free.
 
-Before paying, inspect the optional booklet's output format. These four fixed fictional Juniper files were prepared together using the booklet's actual composition and export process. They are not customer work.
+For a complete example, read the fixed fictional Juniper reflection: [TXT](https://tooljovia.com/pet-soul/examples/juniper-full-booklet.txt) · [HTML — view or print](https://tooljovia.com/pet-soul/examples/juniper-full-booklet). All names, memories, chosen beliefs and experiences in this demonstration are invented. Its readings and personal associations do not verify an afterlife location, reincarnation or a message.
 
-- Letter only: [juniper-letter.txt](https://tooljovia.com/pet-soul/examples/juniper-letter.txt) · [juniper-letter.html — view or print](https://tooljovia.com/pet-soul/examples/juniper-letter).
-- Full booklet with a fictional appendix: [juniper-full-booklet.txt](https://tooljovia.com/pet-soul/examples/juniper-full-booklet.txt) · [juniper-full-booklet.html — view or print](https://tooljovia.com/pet-soul/examples/juniper-full-booklet).
+The earlier letter-only export examples remain available: [juniper-letter.txt](https://tooljovia.com/pet-soul/examples/juniper-letter.txt) · [juniper-letter.html — view or print](https://tooljovia.com/pet-soul/examples/juniper-letter). They are separate legacy examples, not the complete reflection's current report format. None of these samples is customer work.
 
-These files are separate from the prewritten free-workspace example and from your personal draft. [Open the free memorial workspace](https://tooljovia.com/pet-soul/) to add your own memories and review the preparation steps before choosing to pay. Your photo cards and their downloads remain free.
+[Open the free memorial workspace](https://tooljovia.com/pet-soul/) to try your own material. You can keep using its photo cards and downloads without purchasing.
 
 For your own photo keepsake:
 
