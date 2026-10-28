@@ -20,6 +20,19 @@ Under **Reminder on the card**, choose one cue from that routine or **No reminde
 
 The card contains the practice name, optional cue, example/completed status, SmileCraft branding and public entry link. It does not include your age, goals, photos, measurements, scores or history. **Close preview** discards the temporary preview. **Reset** (or **Start over** for a paused routine) also clears the old preview and returns the timer to two minutes without starting it. Reset does not delete earlier check-ins or files you already downloaded; those files remain under your browser/device's control.
 
+## Optional: compare your own two camera samples
+
+[Open the local calibration prototype](https://tooljovia-smilecraft-preview.pages.dev/analyze/). This separate camera flow is optional; it does not use a selected video file or start the two-minute text timer. This is an experimental preview; end-to-end camera, model and physical-device behavior has not yet been validated.
+
+1. Review the two initially unchecked choices: **I am 13 or older.** and local analysis in this tab. Choose them only if they apply and you want to continue; both are needed before Start is available.
+2. Face a soft light with one face in view and select **Start my relaxed sample**. Use your own relaxed expression. A successful sample uses six clear seconds after a short settling interval. Allow extra time for model/camera setup; failed attempts need a fresh start, not just more waiting.
+3. After the first sample succeeds, the camera stops. Keep the same light, distance and forward-facing position, then separately select **Start my gentle-smile sample**. Use a small, comfortable movement. There is no automatic second sample or resume. If a quality check fails, follow the message and restart from the first sample.
+4. Use **Stop and clear calibration** at any time, or **Clear results and start again** after comparison. Hiding or leaving the page, or withdrawing either choice, clears both samples. Results stay in page memory and do not enter SmileCraft history; there is no recording or upload.
+
+The table compares sample medians of average corner height relative to the lip center, left–right corner-height gap, and lip opening—each divided by mouth width. **Difference** means gentle-smile minus relaxed. Positive and negative values are neither better nor worse. You choose the expression labels; this does not recognize emotions, verify a neutral expression or identity, or demonstrate scientific improvement. Each capture has a separate clock: this is not synchronized motion or reaction time.
+
+No camera, unsupported browser or an uncomfortable movement? Stop and [continue with a free text routine](https://tooljovia-smilecraft-preview.pages.dev/train/).
+
 ## Optional mirror and video workspace
 
 The steps below describe a separate workspace. Its timer, video and analysis controls are different from the three text routines above; the practice-card controls belong to the text routines.
