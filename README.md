@@ -56,9 +56,9 @@ Handing over subtitles? [Compare this two-cue SRT and WebVTT pair](examples/subt
 
 [Try the two-file text replacement example](examples/batch-text-replace/): download two fictional inputs, change `ACME` to `NOVA` with the [free Batch Text File Replacer](https://tooljovia.com/tools/batch-text-file-replacer/), and compare the saved result ZIP. One file changes; the other stays unchanged.
 
-## A private pet keepsake
+## Find Your Pet's Soul
 
-[Try Pet Soul Journey](https://tooljovia.com/pet-soul/) and open **See the complete example** to read a complete, prewritten English letter for the fictional dog Juniper. Edit the letter, save the current full text as TXT, or export a PNG keepsake with a selected excerpt and our existing artwork. These features are free and work locally in your browser.
+[Try Find Your Pet's Soul](https://tooljovia.com/pet-soul/) for a personal reflection based on your pet's story and, optionally, the faith perspective you choose. Open **See the complete example** to read a complete, prewritten English letter for the fictional dog Juniper. Edit the letter, save the current full text as TXT, or export a PNG keepsake with a selected excerpt and our existing artwork. These features are free and work locally in your browser.
 
 This is an authored free sample, separate from the optional booklet's actual output. Your own photos and writing can be used in a free editable preview. The tool does not verify a pet's afterlife location.
 
