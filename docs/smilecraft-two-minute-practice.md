@@ -2,6 +2,8 @@
 
 A small rehearsal before a photo or video call can help you explore an expression that feels comfortable. SmileCraft's English browser preview is free, with no account or payment. Use an ordinary mirror, the optional camera mirror, or no mirror at all.
 
+Prefer text cues only? [Start a free two-minute routine](https://tooljovia-smilecraft-preview.pages.dev/train/mirror/) without a camera or account.
+
 ## 1. Open the workspace
 
 [Open the two-minute practice](https://tooljovia-smilecraft-preview.pages.dev/train/mimic/).
@@ -22,13 +24,24 @@ Under **Use your own reference**, confirm that you have permission to use the re
 
 Use a supported MP4 or WebM, 2–60 seconds long and up to 25 MB. If it cannot open, try an H.264 MP4 or another supported WebM. No video is needed to finish the practice.
 
-Your file plays locally; it is not uploaded, added to a public library or analyzed. Select **Play example**. The **Playback speed** control offers **Half speed**; **Loop this clip**, **Hold this frame** and **Video position** let you repeat, pause or seek. Video playback and the practice timer have separate controls.
+With playback-only permission, your file plays locally; it is not uploaded, added to a public library or analyzed. Playing it does not authorize analysis. Select **Play example**. The **Playback speed** control offers **Half speed**; **Loop this clip**, **Hold this frame** and **Video position** let you repeat, pause or seek. Video playback and the practice timer have separate controls.
+
+### Optional: compare local mouth geometry
+
+For ages 13+; not needed for free practice.
+
+1. Choose **Age range for local geometry checks**, then separately check video-analysis permission.
+2. Choose a clear, continuous, forward-facing 5–20-second interval and select **Analyze selected video interval**. Follow any quality error; a reference exists only if checks pass.
+3. If wanted, separately check camera-analysis permission and select **Start six-second camera sample**.
+4. Results show corner height, left–right corner gap and lip opening as mouth-width ratios, plus camera-minus-video differences—not beauty, emotion, identity, medical conclusions or synchronized-motion similarity percentages.
+
+Images and results stay in this page's working memory: no recording, microphone, uploads or automatic baseline-history entries. Select **Stop and clear local session**, or **Finish and clear this session** after comparison. These buttons also reset the practice timer. Once you opt into analysis, hiding or leaving clears that session and selected video and resets the timer. Hiding an untouched playback-only video pauses it without removing its selection.
 
 ## 4. Start the two minutes
 
 Select **Start two-minute practice**. Follow the page's cues: observe a small movement, try it gently, let your eyes move naturally, then release. Keep your jaw comfortable and stop any movement that feels uncomfortable.
 
-Use **Pause practice**, **Resume practice** or **Reset practice** as needed. Switching tabs or hiding this page pauses the timer and video and stops the camera mirror. Returning does not restart them automatically; resume the controls you want to use.
+Use **Pause practice**, **Resume practice** or **Reset practice** as needed. In playback-only practice, switching tabs or hiding this page pauses the timer and video and stops the camera mirror. Returning does not restart them automatically; resume the controls you want to use.
 
 ## 5. Finish with one useful observation
 
