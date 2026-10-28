@@ -2,7 +2,27 @@
 
 A small rehearsal before a photo or video call can help you explore an expression that feels comfortable. SmileCraft's English browser preview is free, with no account or payment. Use an ordinary mirror, the optional camera mirror, or no mirror at all.
 
-Prefer text cues only? [Start a free two-minute routine](https://tooljovia-smilecraft-preview.pages.dev/train/mirror/) without a camera or account.
+## Free text routines
+
+Choose [A softer start](https://tooljovia-smilecraft-preview.pages.dev/train/mirror/), [Move with ease](https://tooljovia-smilecraft-preview.pages.dev/train/movement/) or [Ready for the moment](https://tooljovia-smilecraft-preview.pages.dev/train/situation/). All three are free, text-led and camera-free.
+
+1. Select **Start practice** and follow one gentle cue at a time for two minutes. Stop if a movement is uncomfortable.
+2. Use **Pause** when needed. Leaving or hiding the page also pauses it. Return and select **Continue this practice** when you are ready; it never continues automatically. Starting a different routine replaces the paused one.
+3. Without saving, paused progress stays only during navigation in this app tab. A refresh, tab closure or full-page navigation loses it. To choose on-device saving, open [Local storage choices](https://tooljovia-smilecraft-preview.pages.dev/account/) and review the saving checkbox in the **Local history** section. A saved paused routine still waits for **Continue this practice**. Leave saving off on a shared device. Turning it off clears saved history and paused text progress; reload older open SmileCraft tabs after an update. These controls are not instant synchronization or an encrypted account backup.
+
+### Optional: keep a text practice card
+
+Before finishing, select **Preview an example card**. It is labeled **EXAMPLE — NOT A COMPLETED PRACTICE**; making or saving an example does not complete a routine or add a check-in.
+
+After this routine actually finishes, select **Make a practice card**. An earlier check-in or a page reload does not turn an example into a completed card.
+
+Under **Reminder on the card**, choose one cue from that routine or **No reminder**. Wait for the image to appear, then review it. Use **Update PNG preview** if you want to prepare it again. Only after a preview is ready, select **Save example PNG** or **Save PNG** as appropriate. Your browser handles the download; previewing does not automatically save, share or send anything. If preparation fails, follow the message and try again.
+
+The card contains the practice name, optional cue, example/completed status, SmileCraft branding and public entry link. It does not include your age, goals, photos, measurements, scores or history. **Close preview** discards the temporary preview. **Reset** (or **Start over** for a paused routine) also clears the old preview and returns the timer to two minutes without starting it. Reset does not delete earlier check-ins or files you already downloaded; those files remain under your browser/device's control.
+
+## Optional mirror and video workspace
+
+The steps below describe a separate workspace. Its timer, video and analysis controls are different from the three text routines above; the practice-card controls belong to the text routines.
 
 ## 1. Open the workspace
 
