@@ -4,6 +4,10 @@ Three made-up issues and diagrams show how the same records appear in a report, 
 
 [Open the free Photo Issue Report Builder](https://tooljovia.com/tools/photo-issue-report-builder/)
 
+![Fictional demo: PDF, CSV and editable JSON sample outputs](sample-outputs.gif)
+
+Fictional sample files shown as static panels, not a live recording.
+
 ## Look at the deliverables
 
 | File | What to do with it |
