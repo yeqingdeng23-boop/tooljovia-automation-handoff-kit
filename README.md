@@ -74,6 +74,8 @@ The earlier letter-only export examples remain available: [juniper-letter.txt](h
 
 For your own photo keepsake:
 
+[Follow the free photo keepsake guide](docs/pet-photo-keepsake-guide.md) for framing and download steps.
+
 1. Create your free personal preview with your own photo, then edit your memorial letter.
 2. In the card text-source control, explicitly choose **Current memorial letter**, then select the excerpt you want on the card.
 3. Save the PNG keepsake with your own photo. Save a separate TXT copy if you want the full current letter.
