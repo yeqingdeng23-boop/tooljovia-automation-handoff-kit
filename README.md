@@ -60,6 +60,8 @@ Handing over subtitles? [Compare this two-cue SRT and WebVTT pair](examples/subt
 
 ## Find Your Pet's Soul
 
+[Explore the free fictional English example in Telegram](examples/pet-soul-finder/): open the ToolJovia bot and follow the guide. Telegram requires an account.
+
 [Try Find Your Pet's Soul](https://tooljovia.com/pet-soul/) for a personal reflection based on your pet's story and, optionally, the faith perspective you choose. Your photo cards and editable letter remain free and work locally in your browser. Use your own authorized photo, select an excerpt and save a PNG keepsake; save the current full letter separately as TXT.
 
 **Preview the separate Complete work format:** [Read two complete fictional reports and support letters](https://tooljovia-pet-soul-bot.shiye-cloud-memory-bridge.workers.dev/examples/juniper-full-booklet.html). These samples are separate from the free local workspace demo and are not customer work.
