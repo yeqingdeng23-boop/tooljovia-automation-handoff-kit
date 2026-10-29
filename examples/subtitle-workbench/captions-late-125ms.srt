@@ -1,0 +1,17 @@
+2
+00:00:00,750 --> 00:00:02,250
+Welcome to the lesson.
+Prepare a notebook.
+
+5
+00:00:03,100 --> 00:00:04,600
+Write café on the first line.
+
+8
+00:00:05,125 --> 00:00:07,000
+Next, label the angle θ.
+Keep units visible.
+
+13
+00:00:08,500 --> 00:00:10,750
+Review the example before continuing.

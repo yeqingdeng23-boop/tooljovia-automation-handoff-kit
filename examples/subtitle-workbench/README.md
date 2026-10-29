@@ -21,3 +21,12 @@ Both ends move later by 125 ms; this is a demonstration offset, not a timing rec
 3. Tell your recipient which format and offset you are handing over. Check the file in the intended editor or player before using it with real media.
 
 No media is included. This plain two-cue pair does not establish playback synchronisation or compatibility with every player. Conversion runs in your browser without requiring an account or email address.
+
+## Correct captions that appear late
+
+We build ToolJovia. If captions appear 125 ms **late** relative to the audio, use a **-125 ms** shift to move both ends of each cue earlier. A positive shift moves cues later, as in the two-cue example above. These four course captions are fictional.
+
+- [Late SRT input](captions-late-125ms.srt)
+- [Expected WebVTT output, shifted 125 ms earlier](captions-corrected-minus-125ms.vtt)
+
+Open the [free Subtitle Workbench](https://tooljovia.com/tools/subtitle-workbench/), paste the SRT, select SRT input and WebVTT output, enter **-125** in Time shift in whole milliseconds, then run, review and download the result. Each cue retains its ID, text and duration; check the file against the audio in your intended player. A negative shift must not place a cue before zero. Processing stays in your browser and no account is needed.
