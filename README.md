@@ -62,6 +62,10 @@ Handing over subtitles? [Compare this two-cue SRT and WebVTT pair](examples/subt
 
 [Try Find Your Pet's Soul](https://tooljovia.com/pet-soul/) for a personal reflection based on your pet's story and, optionally, the faith perspective you choose. Your photo cards and editable letter remain free and work locally in your browser. Use your own authorized photo, select an excerpt and save a PNG keepsake; save the current full letter separately as TXT.
 
+**Preview the separate Complete work format:** [Read two complete fictional reports and support letters](https://tooljovia-pet-soul-bot.shiye-cloud-memory-bridge.workers.dev/examples/juniper-full-booklet.html). These samples are separate from the free local workspace demo and are not customer work.
+
+The examples show selected original passages and separate editable support letters, with TXT and printable HTML formats. Report-note prompts are for offline writing in TXT or print; they are not editable report fields in the Mini App.
+
 **Read one actual chapter before deciding to pay.** Add the memories you want to use in the free workspace. If you want to continue to **Prepare your reflection**, explicitly choose to save that draft on your device. On the preparation page, choose whether to send the draft's text to ToolJovia, then review your free chapter, the passages it draws on and references for your chosen perspective. Your photo is not sent. Previewing does not request payment.
 
 The optional complete personal soul-journey reflection costs **USD 59.90 once**, with no subscription. Before checkout, the page lists exactly which additional sections your current material supports and the supporting editable letter. Save the delivered work as TXT or printable HTML with references. [Review current availability and same-browser access requirements before checkout](https://tooljovia.com/pet-soul/checkout/). The free workspace and photo-card downloads remain free.
