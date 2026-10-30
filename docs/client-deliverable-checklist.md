@@ -1,4 +1,5 @@
 # A small-team client handover checklist for photo reports and subtitles
+[Read the formatted checklist on ToolJovia Notes](https://tooljovia-notes.blogspot.com/2026/10/a-small-team-client-handover-checklist.html)
 
 By the ToolJovia team
 
