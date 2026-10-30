@@ -92,6 +92,10 @@ This personal workflow is separate from the fictional Juniper example above. Use
 
 Before a photo or video call, [follow the SmileCraft two-minute quickstart](docs/smilecraft-two-minute-practice.md). It walks through the free browser preview, an optional local camera mirror and a no-camera option. No account or payment is required.
 
+## Once, My Way
+
+[Open Once, My Way](https://tooljovia.com/once-my-way/) and choose one of 50 adapted classics. Follow the story choices, edit the title or a sentence, and keep your version on your browser's local shelf. You can download an illustrated HTML keepsake of the path you selected; the export records that path and does not add new interactive branches.
+
 ## Optional task feedback
 
 [Open an email draft](mailto:yeqingdeng23@gmail.com?subject=ToolJovia%20task%20feedback) if you want to describe a current tool task, what you use now and the one result still missing. You may also describe a missing result and whether you would want to discuss a clearly scoped product option. This feedback route does not offer paid support or implementation services.
