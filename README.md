@@ -98,6 +98,10 @@ Before a photo or video call, [follow the SmileCraft two-minute quickstart](docs
 
 [Read a finished fictional example](docs/once-my-way-finished-example.md) to see one complete path before making your own.
 
+## Our Story
+
+[Open Our Story](https://tooljovia.com/our-story/) to create original family stories in four guided studios: Family Relay, Little Days, Drawing Worlds and When We Were Small. Keep your work on your browser's local bookshelf and save files. It is free, with no account needed to create.
+
 ## Optional task feedback
 
 [Open an email draft](mailto:yeqingdeng23@gmail.com?subject=ToolJovia%20task%20feedback) if you want to describe a current tool task, what you use now and the one result still missing. You may also describe a missing result and whether you would want to discuss a clearly scoped product option. This feedback route does not offer paid support or implementation services.
