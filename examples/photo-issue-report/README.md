@@ -37,6 +37,8 @@ The builder handles up to 10 items. Processing stays in your browser; the tool d
 
 ## Tell us what you need
 
+[Share a current task](https://tooljovia-task-feedback.shiye-cloud-memory-bridge.workers.dev/): describe what you’re trying to finish, what you use now and the output you’re missing. No login is required; email is optional. Photos and report contents are not attached automatically. You may opt into discussing a paid feature; this creates no purchase. Leave out private photos, client details, credentials and other sensitive material.
+
 Have a current reporting task? [Open an email draft](mailto:yeqingdeng23@gmail.com?subject=ToolJovia%20photo%20report%20feedback) and describe what you need to deliver, what you use now and the one output you are missing. Sending is optional and manual. Please leave out private photos, client information and credentials.
 
 Prefer a public GitHub reply? [Share a current task in an Issue](https://github.com/yeqingdeng23-boop/tooljovia-automation-handoff-kit/issues/new?template=current-task.yml). An Issue is public and requires a GitHub account; share a general task description only.
