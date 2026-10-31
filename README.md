@@ -64,7 +64,7 @@ Handing over subtitles? [Compare this two-cue SRT and WebVTT pair](examples/subt
 
 [Try Find Your Pet's Soul](https://tooljovia.com/pet-soul/) for a personal reflection based on your pet's story and, optionally, the faith perspective you choose. Your photo cards and editable letter remain free and work locally in your browser. Use your own authorized photo, select an excerpt and save a PNG keepsake; save the current full letter separately as TXT.
 
-**See separate Telegram examples:** [Read two fictional reports and support letters](https://tooljovia-pet-soul-bot.shiye-cloud-memory-bridge.workers.dev/examples/juniper-full-booklet.html). These samples are separate from the free local workspace demo and are not customer work.
+**Preview the separate Complete work format:** [Read two complete fictional reports and support letters](https://tooljovia-pet-soul-bot.shiye-cloud-memory-bridge.workers.dev/examples/juniper-full-booklet.html). These samples are separate from the free local workspace demo and are not customer work.
 
 The examples show selected original passages and separate editable support letters, with TXT and printable HTML formats. Report-note prompts are for offline writing in TXT or print; they are not editable report fields in the Mini App.
 
