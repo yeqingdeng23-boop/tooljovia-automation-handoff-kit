@@ -12,6 +12,10 @@ Choose [A softer start](https://tooljovia-smilecraft-preview.pages.dev/train/mir
 
 ### Optional: keep a text practice card
 
+![Example SmileCraft practice card with no reminder](images/smilecraft-practice-mirror.png)
+
+*Example card from a product check, with the optional reminder left out. This shows the saved format, not a user result or evidence of improvement.*
+
 Before finishing, select **Preview an example card**. It is labeled **EXAMPLE — NOT A COMPLETED PRACTICE**; making or saving an example does not complete a routine or add a check-in.
 
 After this routine actually finishes, select **Make a practice card**. An earlier check-in or a page reload does not turn an example into a completed card.
