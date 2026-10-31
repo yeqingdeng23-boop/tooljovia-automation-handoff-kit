@@ -6,3 +6,6 @@ This is a fictional paper-puppet play featuring Robot Pip and Little star Dot. I
 
 Creations are stored in the browser you use. Download and keep a private backup if you want to preserve your changes or move them to another device.
 
+## Read or print first
+
+[Open the one-page activity sheet](Pip-and-Dot-paper-theatre-activity.pdf) to read both scenes aloud, change a line or imagine a new ending. The sheet is one page, US Letter, with space for handwriting; adjust the paper size or scaling in your print dialog as needed.
