@@ -108,6 +108,10 @@ Before a photo or video call, [follow the SmileCraft two-minute quickstart](docs
 
 [Fill in the Family Relay worksheet](docs/family-relay-worksheet.md), then compare a complete fictional example.
 
+## Wonderpatch paper theatre
+
+[Open Wonderpatch](https://tooljovia.com/wonderpatch/) and [try a fictional two-scene play](examples/wonderpatch/). Edit its dialogue and keep an editable copy. Free; no account or email required.
+
 ## Optional task feedback
 
 [Open an email draft](mailto:yeqingdeng23@gmail.com?subject=ToolJovia%20task%20feedback) if you want to describe a current tool task, what you use now and the one result still missing. You may also describe a missing result and whether you would want to discuss a clearly scoped product option. This feedback route does not offer paid support or implementation services.
