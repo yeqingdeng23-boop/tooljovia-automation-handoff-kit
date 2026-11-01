@@ -116,6 +116,14 @@ Before a photo or video call, [follow the SmileCraft two-minute quickstart](docs
 
 [Open the free Autism Everyday Support suite](https://tooljovia.com/tools/autism-everyday-support/) to make communication cards and outing plans, then save selected material in a care pack. Work stays in your browser. Before sharing an export, review the entire file, including any linked cards and embedded images or audio.
 
+**Fictional demo — Outings section**
+
+![Fictional demo — Outings section of a multi-part care pack](examples/autism-everyday-support/fictional-care-pack-outings-preview.jpg)
+
+This screenshot shows one section of a multi-part care pack. All names, activities and media are fictional examples.
+
+[Make your own cards and outing plan](https://tooljovia.com/tools/autism-everyday-support/).
+
 ## Optional task feedback
 
 [Open an email draft](mailto:yeqingdeng23@gmail.com?subject=ToolJovia%20task%20feedback) if you want to describe a current tool task, what you use now and the one result still missing. You may also describe a missing result and whether you would want to discuss a clearly scoped product option. This feedback route does not offer paid support or implementation services.
