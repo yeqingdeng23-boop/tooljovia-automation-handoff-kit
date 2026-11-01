@@ -112,6 +112,10 @@ Before a photo or video call, [follow the SmileCraft two-minute quickstart](docs
 
 [Open Wonderpatch](https://tooljovia.com/wonderpatch/) and [try a fictional two-scene play](examples/wonderpatch/). Edit its dialogue and keep an editable copy. Free; no account or email required.
 
+## Autism Everyday Support
+
+[Open the free Autism Everyday Support suite](https://tooljovia.com/tools/autism-everyday-support/) to make communication cards and outing plans, then save selected material in a care pack. Work stays in your browser. Before sharing an export, review the entire file, including any linked cards and embedded images or audio.
+
 ## Optional task feedback
 
 [Open an email draft](mailto:yeqingdeng23@gmail.com?subject=ToolJovia%20task%20feedback) if you want to describe a current tool task, what you use now and the one result still missing. You may also describe a missing result and whether you would want to discuss a clearly scoped product option. This feedback route does not offer paid support or implementation services.
