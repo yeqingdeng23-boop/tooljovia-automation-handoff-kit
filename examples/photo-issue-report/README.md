@@ -4,15 +4,13 @@ Three made-up issues and diagrams show how the same records appear in a report, 
 
 [Open the free Photo Issue Report Builder](https://tooljovia.com/tools/photo-issue-report-builder/)
 
-![Fictional demo: PDF, CSV and editable JSON sample outputs](sample-outputs.gif)
+[View the fictional PDF, CSV and editable JSON sample output panels](sample-outputs.gif)
 
-Fictional sample files shown as static panels, not a live recording.
+[![FICTIONAL DEMO — screenshot montage showing an editable photo report](photo-report-real-workflow-poster.png)](https://tooljovia.com/tools/photo-issue-report-builder/#photo-report-demo)
 
-[![Fictional photo issue step demo cover](photo-issue-fictional-step-cover.png)](https://tooljovia.com/tools/photo-issue-report-builder/#photo-report-demo)
+[Watch the fictional workflow on ToolJovia](https://tooljovia.com/tools/photo-issue-report-builder/#photo-report-demo)
 
-[Watch the fictional step demo on ToolJovia](https://tooljovia.com/tools/photo-issue-report-builder/#photo-report-demo)
-
-This fictional step demo uses three static views, including cropped interface details, to show an image, issue details and a sample PDF. It is not a continuous recording or a measure of task completion time.
+Screenshot montage with EXAMPLE DATA: export a ZIP, restore its JSON, change DEMO-001 from Open to Resolved, and save an updated JSON. The original ZIP contains matching PDF, CSV and JSON from one snapshot; after the edit, the demonstration saves JSON only. This is not a continuous recording or a measure of completion time.
 
 ## Look at the deliverables
 
