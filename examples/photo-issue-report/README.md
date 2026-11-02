@@ -8,7 +8,9 @@ Three made-up issues and diagrams show how the same records appear in a report, 
 
 Fictional sample files shown as static panels, not a live recording.
 
-[![Fictional photo issue step demo cover](photo-issue-fictional-step-cover.png)](photo-issue-fictional-step-demo.mp4)
+[![Fictional photo issue step demo cover](photo-issue-fictional-step-cover.png)](https://tooljovia.com/tools/photo-issue-report-builder/#photo-report-demo)
+
+[Watch the fictional step demo on ToolJovia](https://tooljovia.com/tools/photo-issue-report-builder/#photo-report-demo)
 
 This fictional step demo uses three static views, including cropped interface details, to show an image, issue details and a sample PDF. It is not a continuous recording or a measure of task completion time.
 
