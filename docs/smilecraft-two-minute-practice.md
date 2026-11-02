@@ -90,6 +90,8 @@ For a simpler text-led option, [open Practice](https://tooljovia-smilecraft-prev
 
 ## Optional: tell us what is still missing
 
+Prefer a web form? [Share a current practice task](https://tooljovia-task-feedback.shiye-cloud-memory-bridge.workers.dev/) without opening an email app. Choose **Another software task** and mention SmileCraft in your general task description. Email contact and interest in discussing a possible paid software feature are separate, optional choices; neither is a purchase or commitment to pay. Submitting sends your answers to ToolJovia: read the form’s handling notice and leave out photos, videos, measurements, scores, face data and other sensitive details.
+
 If you want, [open a feedback email draft](mailto:yeqingdeng23@gmail.com?subject=SmileCraft%20task%20feedback) and describe only what you choose:
 
 - What photo, call or other ordinary task are you preparing for?
