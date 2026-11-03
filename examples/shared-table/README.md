@@ -7,6 +7,8 @@
 3. Check **Shopping** and **The budget**: 10 guests, two dishes, 6 cans needed, 1 in stock, 5 missing, three 2-can packs at $3 each. The $9 estimate leaves $1 of the $10 budget.
 4. For a separate plan, choose **My gatherings → Plan a gathering**. Enter your recipes, guest count, stock, package sizes and prices. Save your gathering; under **Print & keep**, choose **Download editable gathering** to keep a reopenable copy.
 
-![Fictional example budget: $10 budget, $9 planned, $1 remaining](budget.jpg)
+![Fictional single-ingredient example: scale recipes, deduct stock once and estimate whole packs](how-it-works.gif)
+
+A 24-second fictional single-ingredient example using explanatory frames and an actual budget screenshot. [View the original static budget image](budget.jpg).
 
 The example illustrates quantities, not a complete recipe or real prices. Check current prices and dietary needs. The planner is free without email; plans do not sync or support live collaboration. Exported files are unencrypted; keep them private. Food and allergy safety are not guaranteed.
