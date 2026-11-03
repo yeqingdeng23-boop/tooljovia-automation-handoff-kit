@@ -2,6 +2,8 @@
 
 A small rehearsal before a photo or video call can help you explore an expression that feels comfortable. SmileCraft's English browser preview is free, with no account or payment. Use an ordinary mirror, the optional camera mirror, or no mirror at all.
 
+**Help test SmileCraft’s early preview:** Adults 18+ can [try the free five-observation camera check](https://45e7d16e.tooljovia-smilecraft-preview.pages.dev/analyze/). Camera and device validation is ongoing. Optional [web feedback](https://tooljovia-task-feedback.shiye-cloud-memory-bridge.workers.dev/): choose **Another software task** and describe your general purpose, current alternative, and whether you completed both holds and understood one displayed change. Leave out photos, videos, scores, actual results and personal details.
+
 ## Free text routines
 
 Choose [A softer start](https://tooljovia-smilecraft-preview.pages.dev/train/mirror/), [Move with ease](https://tooljovia-smilecraft-preview.pages.dev/train/movement/) or [Ready for the moment](https://tooljovia-smilecraft-preview.pages.dev/train/situation/). All three are free, text-led and camera-free.
