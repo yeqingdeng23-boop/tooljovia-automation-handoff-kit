@@ -30,3 +30,7 @@ We build ToolJovia. If captions appear 125 ms **late** relative to the audio, us
 - [Expected WebVTT output, shifted 125 ms earlier](captions-corrected-minus-125ms.vtt)
 
 Open the [free Subtitle Workbench](https://tooljovia.com/tools/subtitle-workbench/), paste the SRT, select SRT input and WebVTT output, enter **-125** in Time shift in whole milliseconds, then run, review and download the result. Each cue retains its ID, text and duration; check the file against the audio in your intended player. A negative shift must not place a cue before zero. Processing stays in your browser and no account is needed.
+
+## Demo: shift SRT cues 1.5 seconds later
+
+These three fictional cues demonstrate a **known, constant** offset; no media is included. Compare the [original SRT](demo-original-1500ms.srt) with the [SRT shifted 1,500 ms later](demo-shifted-plus-1500ms.srt). To try it, paste the original into Subtitle Workbench, choose SRT for both source and output, enter **1500** in Time shift in whole milliseconds, then run, review and download. Positive values move cues later; negative values move them earlier. The tool does not detect timing from audio or correct progressive drift. Check the result against your own media in the intended player.
