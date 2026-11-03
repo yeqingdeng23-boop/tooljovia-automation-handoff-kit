@@ -34,3 +34,7 @@ Open the [free Subtitle Workbench](https://tooljovia.com/tools/subtitle-workbenc
 ## Demo: shift SRT cues 1.5 seconds later
 
 These three fictional cues demonstrate a **known, constant** offset; no media is included. Compare the [original SRT](demo-original-1500ms.srt) with the [SRT shifted 1,500 ms later](demo-shifted-plus-1500ms.srt). To try it, paste the original into Subtitle Workbench, choose SRT for both source and output, enter **1500** in Time shift in whole milliseconds, then run, review and download. Positive values move cues later; negative values move them earlier. The tool does not detect timing from audio or correct progressive drift. Check the result against your own media in the intended player.
+
+![Illustrated timeline of three fictional subtitles shifted 1.5 seconds later; each retains its 1.5-second duration.](subtitle-shift-1500ms-timeline.svg)
+
+Illustration of the known fixed offset in the sample above.
