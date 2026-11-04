@@ -58,6 +58,8 @@ Handing over subtitles? [Compare this two-cue SRT and WebVTT pair](examples/subt
 
 [Plan a gathering with Shared Table](examples/shared-table/): try a fictional shopping list and budget with an editable example.
 
+[Keep a handwritten recipe note beside your own words](docs/handwritten-keepsakes-recipe-card.md): make a free keepsake card with your own image and a manual transcription, then save a printable HTML edition.
+
 [Test a robots.txt exception](docs/test-a-robots-txt-exception.md): follow a fictional Allow and Disallow example, inspect the winning rule, and compare a second path.
 
 ## Find Your Pet's Soul
