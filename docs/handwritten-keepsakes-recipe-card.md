@@ -2,7 +2,7 @@
 
 Have a family recipe note you want to keep alongside your own words? [Handwritten Keepsakes](https://tooljovia.com/handwritten-keepsakes/) lets you make a card for free, without an account or email.
 
-No personal image ready? [Try the fictional example](https://tooljovia.com/handwritten-keepsakes/#/how). Choose **Download fictional example** for the JSON, then **Open an editable copy** and select that file. Choose **Check this file first**, then **Open these as new copies** to add it. Existing collections are kept.
+No personal image ready? Open **The workshop** (or choose **Step inside the workshop** on the home page), then **Preview fictional example**. Check for one collection, one page and one original, and **Nothing has been saved yet**. Choose **Open these as new copies**, then edit your own words. As a backup, choose **Download fictional example** for the JSON, then **Open an editable copy**, select that file and choose **Check this file first** before opening it as new copies.
 
 ![Fictional typeset recipe-card example, not real handwriting.](https://tooljovia.com/handwritten-keepsakes/examples/fictional-recipe.png)
 
