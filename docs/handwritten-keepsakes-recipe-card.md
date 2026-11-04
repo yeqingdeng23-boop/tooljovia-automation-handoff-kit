@@ -13,3 +13,5 @@ No personal image ready? [Try the fictional example](https://tooljovia.com/handw
 
 Your collection stays in this browser. Editable copies and backups contain the full original image and are not encrypted; keep them somewhere private. Cropping is not secure redaction. If you share a general workflow question, leave out the original and personal story.
 
+
+Optional: [Share feedback](https://tooljovia-task-feedback.shiye-cloud-memory-bridge.workers.dev/). Choose **Another software task** and tell us what you’re making, what you use now, and what result is missing. Submitting sends your answers to ToolJovia. Review the handling notice; leave out personal images and stories.
