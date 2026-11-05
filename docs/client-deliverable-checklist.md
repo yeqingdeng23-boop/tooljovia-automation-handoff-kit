@@ -33,6 +33,11 @@ Keep the original caption file. The free [Plain Subtitle Workbench](https://tool
 
 - [ ] Confirm the required format and the exact video version with the recipient.
 - [ ] If a timing shift is needed, choose its direction deliberately: **+125 ms** moves cues later; **-125 ms** moves them earlier. Apply only the shift your review calls for.
+
+Example with fictional text: a **-125 ms** shift moves a cue from **1.000–2.000 seconds** to **0.875–1.875 seconds**. Both endpoints move earlier by 125 ms, so the cue still lasts one second. Try this example before using your own subtitles.
+
+![Fictional WebVTT cue shifted 125 milliseconds earlier, from 1.000–2.000 seconds to 0.875–1.875 seconds.](assets/subtitle-workbench-125ms-example.jpg)
+
 - [ ] Save the output, read it and test it against the intended video in the intended player or course platform. The workbench does not play the video or automatically repair overlaps.
 - [ ] Check whether the source uses timing settings or WebVTT NOTE, STYLE, REGION or header metadata. These are outside the workbench's plain-cue profile, so use another suitable workflow when they must be preserved.
 
