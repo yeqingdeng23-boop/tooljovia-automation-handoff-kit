@@ -9,6 +9,8 @@
 
 To take the shopping list away, open your gathering and choose **Print & keep a copy → Download shopping sheet** (HTML). Open it in a browser to view or print. Use **Download editable gathering** (JSON) for a copy you can reopen and edit in Shared Table; the shopping HTML is not an editable plan backup. Prices are planning estimates, not recorded spending.
 
+To share feedback about a current planning task, use **Share a planning question** at the bottom of Shared Table. It opens your email app, if one is set up, for you to review and send. Describe what you use now and what is missing; leave out guest details, recipes, allergy or dietary information, and files.
+
 ![Fictional single-ingredient example: scale recipes, deduct stock once and estimate whole packs](how-it-works.gif)
 
 A 24-second fictional single-ingredient example using explanatory frames and an actual budget screenshot. [View the original static budget image](budget.jpg).
