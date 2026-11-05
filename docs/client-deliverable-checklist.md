@@ -31,6 +31,8 @@ The report is processed in the browser without an account. It does not autosave:
 
 Keep the original caption file. The free [Plain Subtitle Workbench](https://tooljovia.com/tools/subtitle-workbench/) processes pasted text in your browser without an account.
 
+I help build ToolJovia. If you are working on a subtitle timing task, you are welcome to tell us what you use now and what step or deliverable is still missing. Email yeqingdeng23@gmail.com. Please describe it generally; do not send subtitle text, videos, client details or other private material.
+
 - [ ] Confirm the required format and the exact video version with the recipient.
 - [ ] If a timing shift is needed, choose its direction deliberately: **+125 ms** moves cues later; **-125 ms** moves them earlier. Apply only the shift your review calls for.
 
