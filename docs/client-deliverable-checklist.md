@@ -18,6 +18,8 @@ Use the free [Photo Issue Report Builder](https://tooljovia.com/tools/photo-issu
 
 Before using your own photos, [download the fictional sample ZIP](https://tooljovia.com/assets/photo-issue-report-demo/sample-photo-report.zip) with three made-up issues and three sample images. Unzip it, open `generated.pdf` and `generated.csv`, then choose **Restore JSON backup** in the [builder](https://tooljovia.com/tools/photo-issue-report-builder/) and select `generated.json` to edit the sample report. The [photo punch-list guide](https://tooljovia.com/photo-punch-list/) explains the handoff. Your report is processed locally in your browser.
 
+If you are working on a similar task, [share what you need to finish](https://tooljovia-task-feedback.shiye-cloud-memory-bridge.workers.dev/) and choose **Photo Issue Report Builder**. Describe the task generally, what you use now and the missing output or step. The feedback you choose to submit is sent to ToolJovia. Email is optional, and a reply is not guaranteed. Do not include files, photos, client details or other sensitive information.
+
 - [ ] Match each photo to the right issue and location. Describe observations and proposed next steps separately in the description; do not present an unverified diagnosis as fact.
 - [ ] Review photos and text for addresses, names, people or other details the recipient should not receive; remove unnecessary material before delivery.
 - [ ] Download the PDF for reading and, if useful, the CSV issue list. Save JSON if someone needs a restorable editable copy.
