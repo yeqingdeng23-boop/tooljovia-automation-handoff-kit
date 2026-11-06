@@ -52,6 +52,8 @@ This example is separate from the 19-file version 0.3 ZIP.
 
 Planning a scoped service? [Read the service proposal example](examples/service-proposal/) for a fictional USD 1,200 setup package, with separate labor-cost and client-billing assumptions.
 
+Make a [draft invoice](https://tooljovia.com/tools/draft-invoice-document-builder/): start with the default **Fill in fields**, enter line items, choose decimal places and paper size, then select **Run tool** to generate an HTML draft. Download it, reopen and check it before printing from your browser. **Advanced JSON** remains available.
+
 Handing over subtitles? [Compare this two-cue SRT and WebVTT pair](examples/subtitle-workbench/) with a clear 125 ms shift, then try the existing Subtitle Workbench.
 
 Compare repeated CSV rows with [Duplicate-preserving CSV Reconciler](https://tooljovia.com/tools/csv-multiset-reconciler/). For a fictional example, put `day,sku,channel` in both CSV headers. Add `2026-01-01,A,web` twice under Before CSV and once under After CSV. Choose `selected-columns`, enter `["day","sku","channel"]`, and select **Run tool**. In the JSON result, `before: 2`, `after: 1`, and `delta: -1` mean one fewer occurrence, not a change in quantity or money. Other columns are ignored in this mode.
