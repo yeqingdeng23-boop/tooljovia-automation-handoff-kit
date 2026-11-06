@@ -62,6 +62,8 @@ Compare repeated CSV rows with [Duplicate-preserving CSV Reconciler](https://too
 
 Extract email candidates from authorized text with [Extract Emails](https://tooljovia.com/tools/extract-emails/). For a fictional example, paste `alpha@example.com alpha@example.com beta@example.org` into **Text**, set **Repeated addresses** to **Keep first exact occurrence** and **CSV export policy** to **Guarded CSV**, then click **Run tool**. The result lists `alpha@example.com` and `beta@example.org` once each. Click the separate **Download candidates CSV** button to save `email-candidates.csv`, with one `email_candidate` column; import the column as **Text**. Guarded CSV withholds the whole CSV if any candidate starts with `=`, `+`, `-` or `@`. Matching is case-sensitive. Candidates are not proof that addresses are valid or that you may contact them.
 
+Export identifiers with [JSON to CSV](https://tooljovia.com/tools/json-to-csv/). In the original JSON, put long IDs in double quotes, for example `[{"id":"9007199254740993"}]`, then select **Run tool**. When importing the CSV into a spreadsheet, set the ID column to **Text**. Opening the CSV directly may round long IDs or remove leading zeros.
+
 [Try the two-file text replacement example](examples/batch-text-replace/): download two fictional inputs, change `ACME` to `NOVA` with the [free Batch Text File Replacer](https://tooljovia.com/tools/batch-text-file-replacer/), and compare the saved result ZIP. One file changes; the other stays unchanged.
 
 [Plan a gathering with Shared Table](examples/shared-table/): try a fictional shopping list and budget with an editable example.
