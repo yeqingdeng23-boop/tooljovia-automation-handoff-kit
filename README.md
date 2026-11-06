@@ -4,7 +4,7 @@ A free set of editable worksheets for planning project work, recording checks an
 
 Use it to connect the workflow paths you declare, the test records you supply, the work still open, and the person responsible for the handoff decision. It prepares a reviewable record; it does not run or approve an automation.
 
-[Read the worksheet guide](https://tooljovia.com/automation-handoff/) · [Download version 0.3 — ZIP, 19 files](https://tooljovia.com/assets/downloads/tooljovia-task-worksheets-v0.3.zip)
+[Read the worksheet guide](https://tooljovia.com/automation-handoff/) �� [Download version 0.3 �� ZIP, 19 files](https://tooljovia.com/assets/downloads/tooljovia-task-worksheets-v0.3.zip)
 
 No account, email address or optional analytics consent is required to use the free kit.
 
@@ -56,6 +56,8 @@ Handing over subtitles? [Compare this two-cue SRT and WebVTT pair](examples/subt
 
 Compare repeated CSV rows with [Duplicate-preserving CSV Reconciler](https://tooljovia.com/tools/csv-multiset-reconciler/). For a fictional example, put `day,sku,channel` in both CSV headers. Add `2026-01-01,A,web` twice under Before CSV and once under After CSV. Choose `selected-columns`, enter `["day","sku","channel"]`, and select **Run tool**. In the JSON result, `before: 2`, `after: 1`, and `delta: -1` mean one fewer occurrence, not a change in quantity or money. Other columns are ignored in this mode.
 
+**Share a reconciliation:** Start with the [earlier fictional example](https://github.com/yeqingdeng23-boop/tooljovia-automation-handoff-kit/blob/7d1d74dd31aa7bd01772da49ed39cf0fe820d659/README.md#document-images-to-pdf) and the [CSV Reconciler](https://tooljovia.com/tools/csv-multiset-reconciler/). For a larger fictional check, give both CSVs the header `day,sku,channel`. In **Before CSV**, enter `2026-11-01,A,retail` three times and `2026-11-02,B,online` once; in **After CSV**, enter them once and four times respectively. Set **Tuple identity** to `selected-columns` and **Selected identity columns JSON** to `["day","sku","channel"]`, then choose **Run tool**. The result shows 4 before, 5 after, 2 missing and 3 extra occurrences. Delta is after minus before occurrences, not a change in quantity or money; other columns are ignored. Choose **Download discrepancies CSV** for bounded discrepancy details and **Download** for the original JSON. Check `detailsTruncated` before sharing. Import identity columns as text: spreadsheet formula protection may add a tab to a value.
+
 Extract email candidates from authorized text with [Extract Emails](https://tooljovia.com/tools/extract-emails/). For a fictional example, paste `alpha@example.com alpha@example.com beta@example.org`, select **Keep first exact occurrence**, and run the tool. The result lists `alpha@example.com` and `beta@example.org` once each. Matching is case-sensitive. Candidates are not proof that addresses are valid or that you may contact them.
 
 [Try the two-file text replacement example](examples/batch-text-replace/): download two fictional inputs, change `ACME` to `NOVA` with the [free Batch Text File Replacer](https://tooljovia.com/tools/batch-text-file-replacer/), and compare the saved result ZIP. One file changes; the other stays unchanged.
@@ -80,11 +82,11 @@ The examples show selected original passages and separate editable support lette
 
 The optional complete personal soul-journey reflection costs **USD 59.90 once**, with no subscription. Before checkout, the page lists exactly which additional sections your current material supports and the supporting editable letter. Save the delivered work as TXT or printable HTML with references. [Review current availability and same-browser access requirements before checkout](https://tooljovia.com/pet-soul/checkout/). The free workspace and photo-card downloads remain free.
 
-For an earlier illustrative example, read the fixed fictional Juniper reflection: [TXT](https://tooljovia.com/pet-soul/examples/juniper-full-booklet.txt) · [HTML — view or print](https://tooljovia.com/pet-soul/examples/juniper-full-booklet). It includes editorial comparisons that are not part of the current report format. All names, memories, chosen beliefs and experiences in this demonstration are invented. Its readings and personal associations do not verify an afterlife location, reincarnation or a message.
+For an earlier illustrative example, read the fixed fictional Juniper reflection: [TXT](https://tooljovia.com/pet-soul/examples/juniper-full-booklet.txt) �� [HTML �� view or print](https://tooljovia.com/pet-soul/examples/juniper-full-booklet). It includes editorial comparisons that are not part of the current report format. All names, memories, chosen beliefs and experiences in this demonstration are invented. Its readings and personal associations do not verify an afterlife location, reincarnation or a message.
 
 [Read the current fictional reflection report example](https://tooljovia.com/pet-soul/examples/current-reflection-example.html). It is an example, not customer work.
 
-The earlier letter-only export examples remain available: [juniper-letter.txt](https://tooljovia.com/pet-soul/examples/juniper-letter.txt) · [juniper-letter.html — view or print](https://tooljovia.com/pet-soul/examples/juniper-letter). They are separate legacy examples, not the complete reflection's current report format. None of these samples is customer work.
+The earlier letter-only export examples remain available: [juniper-letter.txt](https://tooljovia.com/pet-soul/examples/juniper-letter.txt) �� [juniper-letter.html �� view or print](https://tooljovia.com/pet-soul/examples/juniper-letter). They are separate legacy examples, not the complete reflection's current report format. None of these samples is customer work.
 
 [Open the free memorial workspace](https://tooljovia.com/pet-soul/) to try your own material. You can keep using its photo cards and downloads without purchasing.
 
@@ -124,9 +126,9 @@ Before a photo or video call, [follow the SmileCraft two-minute quickstart](docs
 
 [Open the free Autism Everyday Support suite](https://tooljovia.com/tools/autism-everyday-support/) to make communication cards and outing plans, then save selected material in a care pack. Work stays in your browser. Before sharing an export, review the entire file, including any linked cards and embedded images or audio.
 
-**Fictional demo — Outings section**
+**Fictional demo �� Outings section**
 
-![Fictional demo — Outings section of a multi-part care pack](examples/autism-everyday-support/fictional-care-pack-outings-preview.jpg)
+![Fictional demo �� Outings section of a multi-part care pack](examples/autism-everyday-support/fictional-care-pack-outings-preview.jpg)
 
 This screenshot shows one section of a multi-part care pack. All names, activities and media are fictional examples.
 
