@@ -54,6 +54,8 @@ Planning a scoped service? [Read the service proposal example](examples/service-
 
 Handing over subtitles? [Compare this two-cue SRT and WebVTT pair](examples/subtitle-workbench/) with a clear 125 ms shift, then try the existing Subtitle Workbench.
 
+Compare repeated CSV rows with [Duplicate-preserving CSV Reconciler](https://tooljovia.com/tools/csv-multiset-reconciler/). For a fictional example, put `day,sku,channel` in both CSV headers. Add `2026-01-01,A,web` twice under Before CSV and once under After CSV. Choose `selected-columns`, enter `["day","sku","channel"]`, and select **Run tool**. In the JSON result, `before: 2`, `after: 1`, and `delta: -1` mean one fewer occurrence, not a change in quantity or money. Other columns are ignored in this mode.
+
 [Try the two-file text replacement example](examples/batch-text-replace/): download two fictional inputs, change `ACME` to `NOVA` with the [free Batch Text File Replacer](https://tooljovia.com/tools/batch-text-file-replacer/), and compare the saved result ZIP. One file changes; the other stays unchanged.
 
 [Plan a gathering with Shared Table](examples/shared-table/): try a fictional shopping list and budget with an editable example.
