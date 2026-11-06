@@ -4,7 +4,7 @@ A free set of editable worksheets for planning project work, recording checks an
 
 Use it to connect the workflow paths you declare, the test records you supply, the work still open, and the person responsible for the handoff decision. It prepares a reviewable record; it does not run or approve an automation.
 
-[Read the worksheet guide](https://tooljovia.com/automation-handoff/) �� [Download version 0.3 �� ZIP, 19 files](https://tooljovia.com/assets/downloads/tooljovia-task-worksheets-v0.3.zip)
+[Read the worksheet guide](https://tooljovia.com/automation-handoff/) · [Download version 0.3 — ZIP, 19 files](https://tooljovia.com/assets/downloads/tooljovia-task-worksheets-v0.3.zip)
 
 No account, email address or optional analytics consent is required to use the free kit.
 
@@ -82,11 +82,11 @@ The examples show selected original passages and separate editable support lette
 
 The optional complete personal soul-journey reflection costs **USD 59.90 once**, with no subscription. Before checkout, the page lists exactly which additional sections your current material supports and the supporting editable letter. Save the delivered work as TXT or printable HTML with references. [Review current availability and same-browser access requirements before checkout](https://tooljovia.com/pet-soul/checkout/). The free workspace and photo-card downloads remain free.
 
-For an earlier illustrative example, read the fixed fictional Juniper reflection: [TXT](https://tooljovia.com/pet-soul/examples/juniper-full-booklet.txt) �� [HTML �� view or print](https://tooljovia.com/pet-soul/examples/juniper-full-booklet). It includes editorial comparisons that are not part of the current report format. All names, memories, chosen beliefs and experiences in this demonstration are invented. Its readings and personal associations do not verify an afterlife location, reincarnation or a message.
+For an earlier illustrative example, read the fixed fictional Juniper reflection: [TXT](https://tooljovia.com/pet-soul/examples/juniper-full-booklet.txt) · [HTML — view or print](https://tooljovia.com/pet-soul/examples/juniper-full-booklet). It includes editorial comparisons that are not part of the current report format. All names, memories, chosen beliefs and experiences in this demonstration are invented. Its readings and personal associations do not verify an afterlife location, reincarnation or a message.
 
 [Read the current fictional reflection report example](https://tooljovia.com/pet-soul/examples/current-reflection-example.html). It is an example, not customer work.
 
-The earlier letter-only export examples remain available: [juniper-letter.txt](https://tooljovia.com/pet-soul/examples/juniper-letter.txt) �� [juniper-letter.html �� view or print](https://tooljovia.com/pet-soul/examples/juniper-letter). They are separate legacy examples, not the complete reflection's current report format. None of these samples is customer work.
+The earlier letter-only export examples remain available: [juniper-letter.txt](https://tooljovia.com/pet-soul/examples/juniper-letter.txt) · [juniper-letter.html — view or print](https://tooljovia.com/pet-soul/examples/juniper-letter). They are separate legacy examples, not the complete reflection's current report format. None of these samples is customer work.
 
 [Open the free memorial workspace](https://tooljovia.com/pet-soul/) to try your own material. You can keep using its photo cards and downloads without purchasing.
 
@@ -126,9 +126,9 @@ Before a photo or video call, [follow the SmileCraft two-minute quickstart](docs
 
 [Open the free Autism Everyday Support suite](https://tooljovia.com/tools/autism-everyday-support/) to make communication cards and outing plans, then save selected material in a care pack. Work stays in your browser. Before sharing an export, review the entire file, including any linked cards and embedded images or audio.
 
-**Fictional demo �� Outings section**
+**Fictional demo — Outings section**
 
-![Fictional demo �� Outings section of a multi-part care pack](examples/autism-everyday-support/fictional-care-pack-outings-preview.jpg)
+![Fictional demo — Outings section of a multi-part care pack](examples/autism-everyday-support/fictional-care-pack-outings-preview.jpg)
 
 This screenshot shows one section of a multi-part care pack. All names, activities and media are fictional examples.
 
