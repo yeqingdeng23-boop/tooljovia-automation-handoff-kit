@@ -38,3 +38,33 @@ These three fictional cues demonstrate a **known, constant** offset; no media is
 ![Illustrated timeline of three fictional subtitles shifted 1.5 seconds later; each retains its 1.5-second duration.](subtitle-shift-1500ms-timeline.svg)
 
 Illustration of the known fixed offset in the sample above.
+
+## Check an overlap before shifting
+
+The workbench applies the same shift to every cue; it does not remove overlaps. Some overlaps are intentional, so first check the video and the recipient's requirements. In this fictional example, assume the captions should appear one at a time:
+
+```srt
+1
+00:00:01,000 --> 00:00:03,000
+The room is ready.
+
+2
+00:00:02,500 --> 00:00:04,000
+Please take a seat.
+```
+
+The first cue ends 500 ms after the second starts. If the audio supports that choice, keep the original file and manually change the first end time to `00:00:02,500` in a text editor. Leave the second cue unchanged. This shortens the first cue, so review its readability and timing; do not make this change blindly.
+
+To apply a known 125 ms delay after that edit, paste the corrected SRT into **Input** in [Subtitle Workbench](https://tooljovia.com/tools/subtitle-workbench/), select **SRT** for **Source format** and **Output**, enter `125` in **Time shift in whole milliseconds**, and select **Run tool**. The expected result is:
+
+```srt
+1
+00:00:01,125 --> 00:00:02,625
+The room is ready.
+
+2
+00:00:02,625 --> 00:00:04,125
+Please take a seat.
+```
+
+Review the output, save it and check it against the intended video and player. No media is included here; the example does not determine the correct timing for your own video.
