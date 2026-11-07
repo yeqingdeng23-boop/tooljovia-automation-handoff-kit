@@ -62,6 +62,37 @@ Compare repeated CSV rows with [Duplicate-preserving CSV Reconciler](https://too
 
 Extract email candidates from authorized text with [Extract Emails](https://tooljovia.com/tools/extract-emails/). For a fictional example, paste `alpha@example.com alpha@example.com beta@example.org` into **Text**, set **Repeated addresses** to **Keep first exact occurrence** and **CSV export policy** to **Guarded CSV**, then click **Run tool**. The result lists `alpha@example.com` and `beta@example.org` once each. Click the separate **Download candidates CSV** button to save `email-candidates.csv`, with one `email_candidate` column; import the column as **Text**. Guarded CSV withholds the whole CSV if any candidate starts with `=`, `+`, `-` or `@`. Matching is case-sensitive. Candidates are not proof that addresses are valid or that you may contact them.
 
+**Choose a long-ID workflow.** Use the result you need to choose a tool.
+
+| Result you need | Tool | What to check after selecting **Run tool** |
+|---|---|---|
+| Readable JSON | [JSON Formatter](https://tooljovia.com/tools/json-formatter/) | Indentation changes; the original numeric spelling remains visible. |
+| Compact JSON | [JSON Minifier](https://tooljovia.com/tools/json-minifier/) | Whitespace outside strings is removed; long IDs and spaces inside strings remain. |
+| A JWT's header and payload | [JWT Decoder](https://tooljovia.com/tools/jwt-decoder/) | Inspect original numeric spellings and the **Not verified** warning. Decoding does not authenticate a user. |
+| CSV for a spreadsheet | [JSON to CSV](https://tooljovia.com/tools/json-to-csv/) | Use original quoted IDs only where strings are allowed; import the ID column as **Text**. |
+
+For a fictional JSON check, paste this into JSON Minifier and select **Run tool**:
+
+```json
+{ "id" : 9007199254740993, "ratio": 0.12345678901234567890123456789, "n": -0, "e": 1.2300e+04, "text": "a  b \u0061 \"x\"" }
+```
+
+The compact result should be exactly:
+
+```json
+{"id":9007199254740993,"ratio":0.12345678901234567890123456789,"n":-0,"e":1.2300e+04,"text":"a  b \u0061 \"x\""}
+```
+
+Choose JSON Formatter when you need indentation instead. Review the result before using **Copy result** or **Download**. Keeping the written number is not arbitrary-precision arithmetic; another parser or spreadsheet may still change it. Already-rounded digits cannot be reconstructed. JSON to CSV rejects integer-valued numbers outside the safe range, including inside nested data; keep long IDs as strings in the original JSON. Decimal numbers still use JavaScript precision.
+
+For JWT inspection, paste this fictional, deliberately unsigned token into JWT Decoder, including the trailing dot, then select **Run tool**:
+
+```text
+eyJhbGciOiJub25lIn0.eyJzdWIiOiJkZW1vIiwiZXhwIjoxNzM1Njg5NjAwfQ.
+```
+
+The decoded fields are `header.alg: none`, `payload.sub: demo`, and `payload.exp: 1735689600`. The expiry is displayed even though it is past. A readable payload is not proof of identity. Verify the signature, allowed algorithm, expiry, issuer and audience in your authentication system. Do not share real bearer tokens in this repository or feedback.
+
 Export identifiers with [JSON to CSV](https://tooljovia.com/tools/json-to-csv/). In the original JSON, put long IDs in double quotes, for example `[{"id":"9007199254740993"}]`, then select **Run tool**. When importing the CSV into a spreadsheet, set the ID column to **Text**. Opening the CSV directly may round long IDs or remove leading zeros.
 
 [Try the two-file text replacement example](examples/batch-text-replace/): download two fictional inputs, change `ACME` to `NOVA` with the [free Batch Text File Replacer](https://tooljovia.com/tools/batch-text-file-replacer/), and compare the saved result ZIP. One file changes; the other stays unchanged.
