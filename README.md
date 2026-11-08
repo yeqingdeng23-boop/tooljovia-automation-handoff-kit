@@ -171,11 +171,15 @@ This screenshot shows one section of a multi-part care pack. All names, activiti
 
 ## Optional task feedback
 
-[Open an email draft](mailto:yeqingdeng23@gmail.com?subject=ToolJovia%20task%20feedback) if you want to describe a current tool task, what you use now and the one result still missing. You may also describe a missing result and whether you would want to discuss a clearly scoped product option. This feedback route does not offer paid support or implementation services.
+[Discuss a current task on GitHub](https://github.com/yeqingdeng23-boop/tooljovia-automation-handoff-kit/issues/new?template=current-task.yml). This opens the existing task form. Issues are **public** and require GitHub sign-in. Your GitHub username and issue content are public; review the content before you submit it. The link does not include your tool inputs, results or files.
 
-Only a fixed subject is supplied. Review and send the message yourself; this link does not send email automatically. Please omit client data and credentials. Sending feedback does not create a marketing subscription.
+You can request an assessment of a bounded JavaScript or data-conversion fix. Describe the goal, a synthetic reproduction, expected results and acceptance checks, your budget and currency, and the desired deadline. We assess fit before agreeing the scope, fee, delivery date, acceptance checks and payment terms. Posting is not an order or a promise of a fix. We use AI assistance; the linked tools are our own projects, not customer case studies.
 
-Prefer GitHub? [Share your current tool task](https://github.com/yeqingdeng23-boop/tooljovia-automation-handoff-kit/issues/new?template=current-task.yml). Issues are public and require GitHub sign-in; leave out client data, credentials and photos. The free kit download requires no account.
+Use synthetic examples and neutral descriptions only. Do not post original tool inputs or results, real files, photos, client records, credentials or confidential details. For personal tools, omit personal letters, beliefs, dreams and loss stories. If the task cannot be described publicly, do not post it here.
+
+The worksheets and tools remain free. The free kit does not include paid support or implementation; any separately agreed work is optional. No GitHub account is required to use the kit.
+
+As a backup, [open an email draft](mailto:yeqingdeng23@gmail.com?subject=ToolJovia%20task%20feedback) with a general, non-confidential task description and no attachments. Only a fixed subject is supplied. Review and send it yourself; no message is sent automatically and no marketing subscription is created.
 
 ## Version and existing use terms
 

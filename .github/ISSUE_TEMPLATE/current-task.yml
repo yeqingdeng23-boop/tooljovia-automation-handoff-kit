@@ -1,46 +1,85 @@
 name: Current ToolJovia task feedback
-description: Share a specific tool task and a missing result.
+description: Describe a task, missing result, or optional scoped JavaScript fix.
 title: "Current ToolJovia task feedback"
 body:
   - type: markdown
     attributes:
       value: |
-        This creates a **public GitHub Issue** and requires GitHub sign-in. Do not include client data, credentials, photos or confidential project details. Use neutral descriptions instead.
+        This creates a **public GitHub Issue** and requires GitHub sign-in. Your GitHub username and issue content are public. Review it before posting. Use synthetic examples and neutral descriptions only. Do not post original tool inputs or results, real files, photos, client records, credentials or confidential project details. If the task cannot be described publicly, do not post it here.
 
         For personal tools, describe controls or ordinary steps only; omit personal letters, beliefs, dreams and loss stories.
 
-        The free kit download requires no account. Feedback is voluntary, and no paid service is currently offered.
+        The worksheets and tools remain free; the kit includes no paid support or implementation. You may optionally ask about a bounded JavaScript or data-conversion fix. We assess fit and agree scope, fee, delivery date, acceptance checks and payment terms before paid work. Posting is not an order or a promise of a fix. We use AI assistance. No quote or fee is implied by this form.
   - type: textarea
     id: current-task
     attributes:
       label: What task are you working on now?
-      description: Describe ordinary steps and the output you need, using neutral roles rather than names.
-      placeholder: "I need to hand over a three-branch workflow to its operating owner."
+      description: Describe the goal and intended environment, using neutral roles rather than names.
+      placeholder: "I need a script to retain repeated CSV rows and preserve IDs as text."
     validations:
       required: true
   - type: textarea
     id: current-method
     attributes:
       label: What do you use for this task now? (optional)
-      placeholder: "A document, spreadsheet, messages, or another method."
+      placeholder: "A tool, a script, a spreadsheet, or a manual method."
     validations:
       required: false
   - type: textarea
     id: missing-deliverable
     attributes:
       label: What deliverable is still missing?
-      description: Name the file or result you still need to finish this task.
-      placeholder: "A client-readable record linking each branch to its test evidence and remaining work."
+      description: Name the file, patch or result you need. Do not attach original files.
+      placeholder: "A corrected script, synthetic regression check, and short use instructions."
     validations:
       required: true
+  - type: textarea
+    id: synthetic-reproduction
+    attributes:
+      label: Synthetic reproduction (optional)
+      description: Use a small made-up example and steps that demonstrate the problem. No original tool data, files, private URLs or credentials.
+      placeholder: "Made-up input, steps, actual behavior, and relevant versions or browser."
+    validations:
+      required: false
+  - type: textarea
+    id: expected-result
+    attributes:
+      label: Expected result and acceptance checks (optional)
+      description: What observable result would count as completing this task?
+      placeholder: "The fictional ID retains its leading zeros and repeated rows remain separate."
+    validations:
+      required: false
+  - type: input
+    id: budget-currency
+    attributes:
+      label: Your budget and currency (optional)
+      description: State an amount and currency, or Not set. This is your budget, not a ToolJovia quote.
+      placeholder: "Amount and currency, or Not set"
+    validations:
+      required: false
+  - type: input
+    id: desired-deadline
+    attributes:
+      label: Desired deadline (optional)
+      description: Include a date and time zone, or Flexible. A delivery date still needs agreement.
+      placeholder: "YYYY-MM-DD and time zone, or Flexible"
+    validations:
+      required: false
   - type: dropdown
     id: extra-scope
     attributes:
       label: Would you want to discuss extra scope and price? (optional)
-      description: No paid service is currently offered.
+      description: Choose only if you want a separate scope discussion; no purchase or price is agreed here.
       options:
         - Free kit only
         - I would like to discuss extra scope and price
         - Not sure yet
     validations:
       required: false
+  - type: checkboxes
+    id: public-content-check
+    attributes:
+      label: Public-content check
+      options:
+        - label: I have reviewed this issue for public posting and included no original tool data, real files, photos, client records, credentials or confidential details.
+          required: true
