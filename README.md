@@ -83,7 +83,7 @@ The compact result should be exactly:
 {"id":9007199254740993,"ratio":0.12345678901234567890123456789,"n":-0,"e":1.2300e+04,"text":"a  b \u0061 \"x\""}
 ```
 
-Choose JSON Formatter when you need indentation instead. Review the result before using **Copy result** or **Download**. Keeping the written number is not arbitrary-precision arithmetic; another parser or spreadsheet may still change it. Already-rounded digits cannot be reconstructed. JSON to CSV rejects integer-valued numbers outside the safe range, including inside nested data; keep long IDs as strings in the original JSON. Decimal numbers still use JavaScript precision.
+Choose JSON Formatter when you need indentation instead. Review the result before using **Copy result** or **Download**. Keeping the written number is not arbitrary-precision arithmetic; another parser or spreadsheet may still change it. Already-rounded digits cannot be reconstructed. JSON to CSV retains the original numeric spelling of direct and nested values, including long integers, decimal trailing zeros, exponents and negative zero, within its finite JavaScript-number and input limits. It does not provide arbitrary-precision arithmetic. Spreadsheet-safety prefixes may alter cells, and spreadsheet imports can still round numbers or change types; import identifiers as Text and review the result.
 
 For JWT inspection, paste this fictional, deliberately unsigned token into JWT Decoder, including the trailing dot, then select **Run tool**:
 
@@ -174,6 +174,8 @@ This screenshot shows one section of a multi-part care pack. All names, activiti
 [Discuss a current task on GitHub](https://github.com/yeqingdeng23-boop/tooljovia-automation-handoff-kit/issues/new?template=current-task.yml). This opens the existing task form. Issues are **public** and require GitHub sign-in. Your GitHub username and issue content are public; review the content before you submit it. The link does not include your tool inputs, results or files.
 
 You can request an assessment of a bounded JavaScript or data-conversion fix. Describe the goal, a synthetic reproduction, expected results and acceptance checks, your budget and currency, and the desired deadline. We assess fit before agreeing the scope, fee, delivery date, acceptance checks and payment terms. Posting is not an order or a promise of a fix. We use AI assistance; the linked tools are our own projects, not customer case studies.
+
+Review an [AI-assisted CSV header validation fix and its regression evidence](https://tooljovia.com/assets/downloads/tooljovia-isolated-csv-header-fix-evidence.txt). This is our own example, not a client case.
 
 Use synthetic examples and neutral descriptions only. Do not post original tool inputs or results, real files, photos, client records, credentials or confidential details. For personal tools, omit personal letters, beliefs, dreams and loss stories. If the task cannot be described publicly, do not post it here.
 
